@@ -1,4 +1,13 @@
 {
+ "compare/models/decor-bath.glb": {
+  "kind": "model",
+  "ktx2": "models/decor-bath.glb",
+  "bytes": 9044,
+  "ktx2Bytes": 8604,
+  "images": [],
+  "texBytesKtx2": 0,
+  "ktx2Mtime": 1793310562991
+ },
  "compare/models/decor-dressing.glb": {
   "kind": "model",
   "ktx2": "models/decor-dressing.glb",
@@ -11,8 +20,8 @@
  "compare/models/decor-ensuite.glb": {
   "kind": "model",
   "ktx2": "models/decor-ensuite.glb",
-  "bytes": 200304,
-  "ktx2Bytes": 189144,
+  "bytes": 188864,
+  "ktx2Bytes": 180612,
   "images": [
    {
     "name": "potted_plant_04_nor_gl_1k",
@@ -30,31 +39,89 @@
    }
   ],
   "texBytesKtx2": 84279,
-  "ktx2Mtime": 1792432498018
+  "ktx2Mtime": 1793310553185
  },
  "compare/models/decor-front-light.glb": {
   "kind": "model",
   "ktx2": "models/decor-front-light.glb",
-  "bytes": 27068,
-  "ktx2Bytes": 25376,
-  "images": [],
-  "texBytesKtx2": 0,
-  "ktx2Mtime": 1792432495807
+  "bytes": 1089460,
+  "ktx2Bytes": 538028,
+  "images": [
+   {
+    "name": "shrub_04_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 15784,
+    "width": 256,
+    "height": 256
+   },
+   {
+    "name": "shrub_04_diff_1k",
+    "mime": "image/png",
+    "bytes": 311018,
+    "width": 512,
+    "height": 512
+   },
+   {
+    "name": "shrub_01_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 20535,
+    "width": 256,
+    "height": 256
+   },
+   {
+    "name": "shrub_01_diff_1k",
+    "mime": "image/png",
+    "bytes": 373844,
+    "width": 512,
+    "height": 512
+   }
+  ],
+  "texBytesKtx2": 168316,
+  "ktx2Mtime": 1793310518727
  },
  "compare/models/decor-front.glb": {
   "kind": "model",
   "ktx2": "models/decor-front.glb",
-  "bytes": 30740,
-  "ktx2Bytes": 29020,
-  "images": [],
-  "texBytesKtx2": 0,
-  "ktx2Mtime": 1792432495745
+  "bytes": 1845208,
+  "ktx2Bytes": 1296500,
+  "images": [
+   {
+    "name": "shrub_04_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 15784,
+    "width": 256,
+    "height": 256
+   },
+   {
+    "name": "shrub_04_diff_1k",
+    "mime": "image/png",
+    "bytes": 311018,
+    "width": 512,
+    "height": 512
+   },
+   {
+    "name": "shrub_01_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 20535,
+    "width": 256,
+    "height": 256
+   },
+   {
+    "name": "shrub_01_diff_1k",
+    "mime": "image/png",
+    "bytes": 373844,
+    "width": 512,
+    "height": 512
+   }
+  ],
+  "texBytesKtx2": 168316,
+  "ktx2Mtime": 1793310498902
  },
  "compare/models/decor-garden-light.glb": {
   "kind": "model",
   "ktx2": "models/decor-garden-light.glb",
-  "bytes": 2202240,
-  "ktx2Bytes": 1607932,
+  "bytes": 2234612,
+  "ktx2Bytes": 1667896,
   "images": [
    {
     "name": "shrub_04_nor_gl_1k",
@@ -67,6 +134,20 @@
     "name": "shrub_04_diff_1k",
     "mime": "image/png",
     "bytes": 311018,
+    "width": 512,
+    "height": 512
+   },
+   {
+    "name": "potted_plant_04_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 22257,
+    "width": 256,
+    "height": 256
+   },
+   {
+    "name": "potted_plant_04_diff_1k",
+    "mime": "image/jpeg",
+    "bytes": 62471,
     "width": 512,
     "height": 512
    },
@@ -85,14 +166,14 @@
     "height": 512
    }
   ],
-  "texBytesKtx2": 168316,
-  "ktx2Mtime": 1792432498627
+  "texBytesKtx2": 252595,
+  "ktx2Mtime": 1793310494853
  },
  "compare/models/decor-garden.glb": {
   "kind": "model",
   "ktx2": "models/decor-garden.glb",
-  "bytes": 4275956,
-  "ktx2Bytes": 3677596,
+  "bytes": 4645540,
+  "ktx2Bytes": 4095472,
   "images": [
    {
     "name": "shrub_04_nor_gl_1k",
@@ -105,6 +186,20 @@
     "name": "shrub_04_diff_1k",
     "mime": "image/png",
     "bytes": 311018,
+    "width": 512,
+    "height": 512
+   },
+   {
+    "name": "potted_plant_04_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 22257,
+    "width": 256,
+    "height": 256
+   },
+   {
+    "name": "potted_plant_04_diff_1k",
+    "mime": "image/jpeg",
+    "bytes": 62471,
     "width": 512,
     "height": 512
    },
@@ -123,15 +218,81 @@
     "height": 512
    }
   ],
-  "texBytesKtx2": 168316,
-  "ktx2Mtime": 1792432498996
+  "texBytesKtx2": 252595,
+  "ktx2Mtime": 1793310460840
+ },
+ "compare/models/decor-guest.glb": {
+  "kind": "model",
+  "ktx2": "models/decor-guest.glb",
+  "bytes": 1768460,
+  "ktx2Bytes": 948320,
+  "images": [
+   {
+    "name": "potted_plant_01_leaves_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 57863,
+    "width": 512,
+    "height": 512
+   },
+   {
+    "name": "potted_plant_01_leaves_diff_1k",
+    "mime": "image/png",
+    "bytes": 1004054,
+    "width": 1024,
+    "height": 1024
+   },
+   {
+    "name": "ceramic_vase_03_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 9580,
+    "width": 256,
+    "height": 256
+   },
+   {
+    "name": "ceramic_vase_03_diff_1k",
+    "mime": "image/jpeg",
+    "bytes": 41168,
+    "width": 512,
+    "height": 512
+   },
+   {
+    "name": "potted_plant_01_pot_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 14194,
+    "width": 256,
+    "height": 256
+   },
+   {
+    "name": "potted_plant_01_pot_diff_1k",
+    "mime": "image/jpeg",
+    "bytes": 63026,
+    "width": 512,
+    "height": 512
+   }
+  ],
+  "texBytesKtx2": 380050,
+  "ktx2Mtime": 1793310509039
  },
  "compare/models/decor-hall.glb": {
   "kind": "model",
   "ktx2": "models/decor-hall.glb",
-  "bytes": 72112,
-  "ktx2Bytes": 68596,
+  "bytes": 1546248,
+  "ktx2Bytes": 718920,
   "images": [
+   {
+    "name": "potted_plant_01_leaves_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 57863,
+    "width": 512,
+    "height": 512
+   },
+   {
+    "name": "potted_plant_01_leaves_diff_1k",
+    "mime": "image/png",
+    "bytes": 1004054,
+    "width": 1024,
+    "height": 1024
+   },
    {
     "name": "ceramic_vase_01_nor_gl_1k",
     "mime": "image/jpeg",
@@ -145,19 +306,33 @@
     "bytes": 11013,
     "width": 512,
     "height": 512
+   },
+   {
+    "name": "potted_plant_01_pot_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 14194,
+    "width": 256,
+    "height": 256
+   },
+   {
+    "name": "potted_plant_01_pot_diff_1k",
+    "mime": "image/jpeg",
+    "bytes": 63026,
+    "width": 512,
+    "height": 512
    }
   ],
-  "texBytesKtx2": 15971,
-  "ktx2Mtime": 1792432496970
+  "texBytesKtx2": 329864,
+  "ktx2Mtime": 1793310512910
  },
  "compare/models/decor-kid.glb": {
   "kind": "model",
   "ktx2": "models/decor-kid.glb",
-  "bytes": 138808,
-  "ktx2Bytes": 120184,
+  "bytes": 135952,
+  "ktx2Bytes": 118916,
   "images": [],
   "texBytesKtx2": 0,
-  "ktx2Mtime": 1792432495784
+  "ktx2Mtime": 1793310554871
  },
  "compare/models/decor-kidbath.glb": {
   "kind": "model",
@@ -171,20 +346,20 @@
  "compare/models/decor-ldk.glb": {
   "kind": "model",
   "ktx2": "models/decor-ldk.glb",
-  "bytes": 3779092,
-  "ktx2Bytes": 2103296,
+  "bytes": 2109184,
+  "ktx2Bytes": 1556720,
   "images": [
    {
-    "name": "calathea_orbifolia_01_nor_gl_1k",
+    "name": "pachira_aquatica_01_bark_nor_gl_1k",
     "mime": "image/jpeg",
-    "bytes": 47814,
+    "bytes": 60460,
     "width": 512,
     "height": 512
    },
    {
-    "name": "calathea_orbifolia_01_diff_1k",
-    "mime": "image/png",
-    "bytes": 1201274,
+    "name": "pachira_aquatica_01_bark_diff_1k",
+    "mime": "image/jpeg",
+    "bytes": 592488,
     "width": 1024,
     "height": 1024
    },
@@ -245,20 +420,6 @@
     "height": 512
    },
    {
-    "name": "book_encyclopedia_set_01_paper_nor_gl_1k",
-    "mime": "image/jpeg",
-    "bytes": 14834,
-    "width": 256,
-    "height": 256
-   },
-   {
-    "name": "book_encyclopedia_set_01_paper_diff_1k",
-    "mime": "image/jpeg",
-    "bytes": 38082,
-    "width": 512,
-    "height": 512
-   },
-   {
     "name": "pachira_aquatica_01_leaves_nor_gl_1k",
     "mime": "image/jpeg",
     "bytes": 44407,
@@ -271,44 +432,16 @@
     "bytes": 320484,
     "width": 1024,
     "height": 1024
-   },
-   {
-    "name": "book_encyclopedia_set_01_cover_nor_gl_1k",
-    "mime": "image/jpeg",
-    "bytes": 1790,
-    "width": 256,
-    "height": 256
-   },
-   {
-    "name": "book_encyclopedia_set_01_cover_diff_1k",
-    "mime": "image/jpeg",
-    "bytes": 44617,
-    "width": 512,
-    "height": 512
-   },
-   {
-    "name": "pachira_aquatica_01_bark_nor_gl_1k",
-    "mime": "image/jpeg",
-    "bytes": 60460,
-    "width": 512,
-    "height": 512
-   },
-   {
-    "name": "pachira_aquatica_01_bark_diff_1k",
-    "mime": "image/jpeg",
-    "bytes": 592488,
-    "width": 1024,
-    "height": 1024
    }
   ],
-  "texBytesKtx2": 1038495,
-  "ktx2Mtime": 1792432513699
+  "texBytesKtx2": 704157,
+  "ktx2Mtime": 1793310516977
  },
  "compare/models/decor-master.glb": {
   "kind": "model",
   "ktx2": "models/decor-master.glb",
-  "bytes": 1619804,
-  "ktx2Bytes": 601156,
+  "bytes": 1480868,
+  "ktx2Bytes": 459036,
   "images": [
    {
     "name": "calathea_orbifolia_01_nor_gl_1k",
@@ -323,24 +456,10 @@
     "bytes": 1201274,
     "width": 1024,
     "height": 1024
-   },
-   {
-    "name": "ceramic_vase_03_nor_gl_1k",
-    "mime": "image/jpeg",
-    "bytes": 9580,
-    "width": 256,
-    "height": 256
-   },
-   {
-    "name": "ceramic_vase_03_diff_1k",
-    "mime": "image/jpeg",
-    "bytes": 41168,
-    "width": 512,
-    "height": 512
    }
   ],
-  "texBytesKtx2": 299593,
-  "ktx2Mtime": 1792432501262
+  "texBytesKtx2": 233436,
+  "ktx2Mtime": 1793310517968
  },
  "compare/models/decor-office.glb": {
   "kind": "model",
@@ -422,41 +541,36 @@
   "texBytesKtx2": 499074,
   "ktx2Mtime": 1792432505346
  },
+ "compare/models/decor-pantry.glb": {
+  "kind": "model",
+  "ktx2": "models/decor-pantry.glb",
+  "bytes": 13144,
+  "ktx2Bytes": 13268,
+  "images": [],
+  "texBytesKtx2": 0,
+  "ktx2Mtime": 1793310562609
+ },
  "compare/models/decor-wc.glb": {
   "kind": "model",
   "ktx2": "models/decor-wc.glb",
-  "bytes": 7432,
-  "ktx2Bytes": 6792,
+  "bytes": 2844,
+  "ktx2Bytes": 2844,
   "images": [],
   "texBytesKtx2": 0,
-  "ktx2Mtime": 1792432495835
+  "ktx2Mtime": 1793310564635
  },
  "compare/models/trees-light.glb": {
   "kind": "model",
   "ktx2": "models/trees-light.glb",
-  "bytes": 4647236,
-  "ktx2Bytes": 2967284,
+  "bytes": 4110388,
+  "ktx2Bytes": 2491308,
   "images": [
    {
-    "name": "tree_small_02_leaves",
+    "name": "island_tree_02_leaves",
     "mime": "image/png",
-    "bytes": 914786,
+    "bytes": 585127,
     "width": 1024,
     "height": 1024
-   },
-   {
-    "name": "island_tree_02_branches_nor_gl_1k",
-    "mime": "image/jpeg",
-    "bytes": 28375,
-    "width": 256,
-    "height": 256
-   },
-   {
-    "name": "island_tree_02_branches_diff_1k",
-    "mime": "image/jpeg",
-    "bytes": 69757,
-    "width": 512,
-    "height": 512
    },
    {
     "name": "tree_small_02_nor_gl_1k",
@@ -473,16 +587,16 @@
     "height": 512
    },
    {
-    "name": "island_tree_02_nor_gl_1k",
+    "name": "island_tree_02_branches_nor_gl_1k",
     "mime": "image/jpeg",
-    "bytes": 28972,
+    "bytes": 28375,
     "width": 256,
     "height": 256
    },
    {
-    "name": "island_tree_02_diff_1k",
+    "name": "island_tree_02_branches_diff_1k",
     "mime": "image/jpeg",
-    "bytes": 69524,
+    "bytes": 69757,
     "width": 512,
     "height": 512
    },
@@ -501,42 +615,42 @@
     "height": 512
    },
    {
-    "name": "island_tree_02_leaves",
+    "name": "island_tree_02_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 28972,
+    "width": 256,
+    "height": 256
+   },
+   {
+    "name": "island_tree_02_diff_1k",
+    "mime": "image/jpeg",
+    "bytes": 69524,
+    "width": 512,
+    "height": 512
+   },
+   {
+    "name": "tree_small_02_leaves",
     "mime": "image/png",
-    "bytes": 585127,
+    "bytes": 914786,
     "width": 1024,
     "height": 1024
    }
   ],
   "texBytesKtx2": 656598,
-  "ktx2Mtime": 1792432510372
+  "ktx2Mtime": 1793310492960
  },
  "compare/models/trees.glb": {
   "kind": "model",
   "ktx2": "models/trees.glb",
-  "bytes": 8282404,
-  "ktx2Bytes": 5690072,
+  "bytes": 7169028,
+  "ktx2Bytes": 4731920,
   "images": [
    {
-    "name": "tree_small_02_leaves",
+    "name": "island_tree_02_leaves",
     "mime": "image/png",
-    "bytes": 914786,
+    "bytes": 585127,
     "width": 1024,
     "height": 1024
-   },
-   {
-    "name": "island_tree_02_branches_nor_gl_1k",
-    "mime": "image/jpeg",
-    "bytes": 28375,
-    "width": 256,
-    "height": 256
-   },
-   {
-    "name": "island_tree_02_branches_diff_1k",
-    "mime": "image/jpeg",
-    "bytes": 69757,
-    "width": 512,
-    "height": 512
    },
    {
     "name": "tree_small_02_nor_gl_1k",
@@ -553,16 +667,16 @@
     "height": 512
    },
    {
-    "name": "island_tree_02_nor_gl_1k",
+    "name": "island_tree_02_branches_nor_gl_1k",
     "mime": "image/jpeg",
-    "bytes": 28972,
+    "bytes": 28375,
     "width": 256,
     "height": 256
    },
    {
-    "name": "island_tree_02_diff_1k",
+    "name": "island_tree_02_branches_diff_1k",
     "mime": "image/jpeg",
-    "bytes": 69524,
+    "bytes": 69757,
     "width": 512,
     "height": 512
    },
@@ -581,21 +695,35 @@
     "height": 512
    },
    {
-    "name": "island_tree_02_leaves",
+    "name": "island_tree_02_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 28972,
+    "width": 256,
+    "height": 256
+   },
+   {
+    "name": "island_tree_02_diff_1k",
+    "mime": "image/jpeg",
+    "bytes": 69524,
+    "width": 512,
+    "height": 512
+   },
+   {
+    "name": "tree_small_02_leaves",
     "mime": "image/png",
-    "bytes": 585127,
+    "bytes": 914786,
     "width": 1024,
     "height": 1024
    }
   ],
   "texBytesKtx2": 656598,
-  "ktx2Mtime": 1792432511035
+  "ktx2Mtime": 1793310482602
  },
  "lightmaps/arch-1k.png": {
   "kind": "lightmap",
   "ktx2": "lightmaps/arch-1k.ktx2",
-  "bytes": 709115,
-  "ktx2Bytes": 319866,
+  "bytes": 813493,
+  "ktx2Bytes": 346205,
   "width": 1024,
   "height": 1024,
   "mode": "UASTC",
@@ -604,8 +732,8 @@
  "lightmaps/arch.png": {
   "kind": "lightmap",
   "ktx2": "lightmaps/arch.ktx2",
-  "bytes": 2217063,
-  "ktx2Bytes": 1028835,
+  "bytes": 2613406,
+  "ktx2Bytes": 1159366,
   "width": 2048,
   "height": 2048,
   "mode": "UASTC",
@@ -614,8 +742,8 @@
  "lightmaps/items-1k.png": {
   "kind": "lightmap",
   "ktx2": "lightmaps/items-1k.ktx2",
-  "bytes": 986022,
-  "ktx2Bytes": 421502,
+  "bytes": 712565,
+  "ktx2Bytes": 314263,
   "width": 1024,
   "height": 1024,
   "mode": "UASTC",
@@ -624,8 +752,8 @@
  "lightmaps/items.png": {
   "kind": "lightmap",
   "ktx2": "lightmaps/items.ktx2",
-  "bytes": 3111949,
-  "ktx2Bytes": 1405274,
+  "bytes": 2218700,
+  "ktx2Bytes": 1026417,
   "width": 2048,
   "height": 2048,
   "mode": "UASTC",
@@ -634,8 +762,8 @@
  "lightmaps/site-1k.png": {
   "kind": "lightmap",
   "ktx2": "lightmaps/site-1k.ktx2",
-  "bytes": 542077,
-  "ktx2Bytes": 206186,
+  "bytes": 853273,
+  "ktx2Bytes": 314147,
   "width": 1024,
   "height": 1024,
   "mode": "UASTC",
@@ -644,12 +772,72 @@
  "lightmaps/site.png": {
   "kind": "lightmap",
   "ktx2": "lightmaps/site.ktx2",
-  "bytes": 1729843,
-  "ktx2Bytes": 696855,
+  "bytes": 2851629,
+  "ktx2Bytes": 1106597,
   "width": 2048,
   "height": 2048,
   "mode": "UASTC",
   "mips": false
+ },
+ "textures/cedar/diff-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/cedar/diff-light.ktx2",
+  "bytes": 176142,
+  "ktx2Bytes": 178283,
+  "width": 1024,
+  "height": 1024,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/cedar/diff.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/cedar/diff.ktx2",
+  "bytes": 739218,
+  "ktx2Bytes": 698602,
+  "width": 2048,
+  "height": 2048,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/cedar/nor-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/cedar/nor-light.ktx2",
+  "bytes": 19171,
+  "ktx2Bytes": 1333,
+  "width": 512,
+  "height": 512,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/cedar/nor.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/cedar/nor.ktx2",
+  "bytes": 53927,
+  "ktx2Bytes": 3030,
+  "width": 1024,
+  "height": 1024,
+  "mode": "UASTC",
+  "mips": true
+ },
+ "textures/cedar/rough-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/cedar/rough-light.ktx2",
+  "bytes": 1819,
+  "ktx2Bytes": 964,
+  "width": 512,
+  "height": 512,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/cedar/rough.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/cedar/rough.ktx2",
+  "bytes": 6427,
+  "ktx2Bytes": 1268,
+  "width": 1024,
+  "height": 1024,
+  "mode": "ETC1S",
+  "mips": true
  },
  "textures/concrete/diff-light.jpg": {
   "kind": "texture",
