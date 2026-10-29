@@ -1,0 +1,253 @@
+{
+ "oakFloor": {
+  "size": 1.92,
+  "maps": [
+   "diff",
+   "nor",
+   "rough"
+  ],
+  "px": 2048,
+  "mean": [
+   0.36344,
+   0.18038,
+   0.0881
+  ],
+  "rough": 0.4423,
+  "source": "oak_wood_planks"
+ },
+ "travertine": {
+  "size": 2.4,
+  "maps": [
+   "diff",
+   "nor",
+   "rough"
+  ],
+  "px": 2048,
+  "mean": [
+   0.44255,
+   0.33734,
+   0.19393
+  ],
+  "rough": 0.5056,
+  "source": "marble_01"
+ },
+ "oak": {
+  "size": 1.83,
+  "maps": [
+   "diff",
+   "nor",
+   "rough"
+  ],
+  "px": 1024,
+  "mean": [
+   0.3587,
+   0.21001,
+   0.09721
+  ],
+  "rough": 0.5304,
+  "source": "oak_veneer_01"
+ },
+ "walnut": {
+  "size": 1.0,
+  "maps": [
+   "diff",
+   "nor",
+   "rough"
+  ],
+  "px": 1024,
+  "mean": [
+   0.49929,
+   0.32539,
+   0.21012
+  ],
+  "rough": 0.7064,
+  "source": "smoked_walnut_veneer"
+ },
+ "plaster": {
+  "size": 2.0,
+  "maps": [
+   "diff",
+   "nor"
+  ],
+  "px": 1024,
+  "mean": [
+   0.26728,
+   0.24177,
+   0.19433
+  ],
+  "source": "white_plaster_02"
+ },
+ "render": {
+  "size": 2.0,
+  "maps": [
+   "diff",
+   "nor"
+  ],
+  "px": 1024,
+  "mean": [
+   0.67739,
+   0.64719,
+   0.62526
+  ],
+  "source": "white_stucco"
+ },
+ "linen": {
+  "size": 0.27,
+  "maps": [
+   "nor",
+   "rough"
+  ],
+  "px": 512,
+  "rough": 0.7184,
+  "source": "rough_linen"
+ },
+ "wool": {
+  "size": 0.4,
+  "maps": [
+   "diff",
+   "nor",
+   "rough"
+  ],
+  "px": 512,
+  "mean": [
+   0.19149,
+   0.17922,
+   0.1648
+  ],
+  "rough": 0.8611,
+  "source": "poly_wool_herringbone"
+ },
+ "concrete": {
+  "size": 2.5,
+  "maps": [
+   "diff",
+   "nor",
+   "rough"
+  ],
+  "px": 1024,
+  "mean": [
+   0.14599,
+   0.12522,
+   0.09794
+  ],
+  "rough": 0.7837,
+  "source": "brushed_concrete"
+ },
+ "gravel": {
+  "size": 2.0,
+  "maps": [
+   "diff",
+   "nor",
+   "rough"
+  ],
+  "px": 1024,
+  "mean": [
+   0.08245,
+   0.05009,
+   0.02581
+  ],
+  "rough": 0.936,
+  "source": "gravel"
+ },
+ "grass": {
+  "size": 2.0,
+  "maps": [
+   "diff",
+   "nor",
+   "rough"
+  ],
+  "px": 1024,
+  "mean": [
+   0.30949,
+   0.22738,
+   0.10002
+  ],
+  "rough": 0.6851,
+  "source": "leafy_grass"
+ },
+ "tiles": {
+  "size": 1.9,
+  "maps": [
+   "diff",
+   "nor",
+   "rough"
+  ],
+  "px": 1024,
+  "mean": [
+   0.40908,
+   0.31814,
+   0.23666
+  ],
+  "rough": 0.6961,
+  "source": "interior_tiles"
+ },
+ "marble": {
+  "size": 2.0,
+  "maps": [
+   "diff",
+   "rough"
+  ],
+  "px": 2048,
+  "mean": [
+   0.8796,
+   0.85501,
+   0.81504
+  ],
+  "rough": 0.1556,
+  "source": "generated (tools/prep-textures.py)"
+ },
+ "hedge": {
+  "size": 0.9,
+  "maps": [
+   "diff",
+   "nor"
+  ],
+  "px": 1024,
+  "mean": [
+   0.07344,
+   0.07659,
+   0.0212
+  ],
+  "source": "generated from island_tree_02 leaves (tools/blender/make-hedge.py)"
+ },
+ "hedgeLeaf": {
+  "size": 1.0,
+  "maps": [
+   "diff"
+  ],
+  "px": 256,
+  "png": [
+   "diff"
+  ],
+  "mean": [
+   0.10187,
+   0.1075,
+   0.02811
+  ],
+  "source": "generated from island_tree_02 leaves (tools/blender/make-hedge.py)"
+ },
+ "water": {
+  "size": 1.6,
+  "maps": [
+   "nor"
+  ],
+  "px": 512,
+  "source": "generated (tools/prep-textures.py)"
+ },
+ "cedar": {
+  "size": 1.62,
+  "maps": [
+   "diff",
+   "nor",
+   "rough"
+  ],
+  "px": 2048,
+  "mean": [
+   0.32351,
+   0.18854,
+   0.08675
+  ],
+  "rough": 0.6667,
+  "source": "generated from oak_veneer_01 (tools/prep-textures.py)"
+ }
+}
