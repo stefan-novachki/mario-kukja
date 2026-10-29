@@ -1,0 +1,1050 @@
+21:40:42 | INFO: Data are loaded, start creating Blender stuff
+21:40:42 | INFO: Blender create Mesh node B|arch|arch|plinth
+21:40:42 | INFO: Blender create Mesh node B|arch|arch|anthracite
+21:40:42 | INFO: Blender create Mesh node B|arch|arch|metal
+21:40:42 | INFO: Blender create Mesh node B|arch|arch|cedar
+21:40:42 | INFO: Blender create Mesh node B|arch|arch|plaster
+21:40:42 | INFO: Blender create Mesh node B|arch|arch|coping
+21:40:42 | INFO: Blender create Mesh node B|arch|arch|frame
+21:40:43 | INFO: Blender create Mesh node N|arch|glass
+21:40:43 | INFO: Blender create Mesh node B|arch|arch|paving
+21:40:43 | INFO: Blender create Mesh node B|arch|arch|oak
+21:40:43 | INFO: Blender create Mesh node B|arch|arch|oakFloor
+21:40:43 | INFO: Blender create Mesh node B|arch|arch|render
+21:40:43 | INFO: Blender create Mesh node B|arch|arch|stoneTile
+21:40:43 | INFO: Blender create Mesh node B|arch|arch|paintBlack
+21:40:43 | INFO: Blender create Mesh node B|arch|arch|concrete
+21:40:43 | INFO: Blender create Mesh node B|arch|arch|garageDoor
+21:40:43 | INFO: Blender create Mesh node B|arch|top|ceiling
+21:40:43 | INFO: Blender create Mesh node B|arch|top|coping
+21:40:43 | INFO: Blender create Mesh node N|top|glass
+21:40:43 | INFO: Blender create Mesh node B|arch|top|roof
+21:40:43 | INFO: Blender create Mesh node B|arch|top|anthracite
+21:40:43 | INFO: Blender create Mesh node B|site|site|driveway
+21:40:43 | INFO: Blender create Mesh node B|site|site|pavers
+21:40:43 | INFO: Blender create Mesh node B|site|site|lawn
+21:40:43 | INFO: Blender create Mesh node N|site|concrete
+21:40:43 | INFO: Blender create Mesh node N|site|asphalt
+21:40:43 | INFO: Blender create Mesh node B|site|site|render
+21:40:43 | INFO: Blender create Mesh node B|site|site|fenceMetal
+21:40:43 | INFO: Blender create Mesh node B|site|site|plinth
+21:40:43 | INFO: Blender create Mesh node B|site|site|cedarBeam
+21:40:43 | INFO: Blender create Mesh node B|site|site|mulch
+21:40:43 | INFO: Blender create Mesh node B|site|site|frame
+21:40:43 | INFO: Blender create Mesh node B|site|site|neighbourRender
+21:40:43 | INFO: Blender create Mesh node B|site|site|metalRoof
+21:40:43 | INFO: Blender create Mesh node B|items|items|frame
+21:40:43 | INFO: Blender create Mesh node B|items|items|oak
+21:40:43 | INFO: Blender create Mesh node B|items|items|walnut
+21:40:43 | INFO: Blender create Mesh node V|decor|kid|linenWhite
+21:40:43 | INFO: Blender create Mesh node V|decor|master|linenWhite
+21:40:43 | INFO: Blender create Mesh node V|decor|guest|linenWhite
+21:40:43 | INFO: Blender create Mesh node V|decor|kid|linenSage
+21:40:43 | INFO: Blender create Mesh node V|decor|bath|linenSage
+21:40:43 | INFO: Blender create Mesh node V|decor|kid|linenMustard
+21:40:43 | INFO: Blender create Mesh node V|decor|kid|linen
+21:40:43 | INFO: Blender create Mesh node V|decor|master|linen
+21:40:43 | INFO: Blender create Mesh node V|decor|guest|linen
+21:40:43 | INFO: Blender create Mesh node B|items|items|rug
+21:40:43 | INFO: Blender create Mesh node V|decor|master|linenOat
+21:40:43 | INFO: Blender create Mesh node V|decor|guest|linenOat
+21:40:43 | INFO: Blender create Mesh node V|decor|ldk|linenOat
+21:40:43 | INFO: Blender create Mesh node V|decor|kid|linenOat
+21:40:43 | INFO: Blender create Mesh node B|items|items|showerTile
+21:40:43 | INFO: Blender create Mesh node N|items|glass
+21:40:43 | INFO: Blender create Mesh node B|items|items|marble
+21:40:43 | INFO: Blender create Mesh node B|items|items|ceramic
+21:40:44 | INFO: Blender create Mesh node N|items|mirror
+21:40:44 | INFO: Blender create Mesh node B|items|items|lacquer
+21:40:44 | INFO: Blender create Mesh node B|items|items|steel
+21:40:44 | INFO: Blender create Mesh node N|items|blackGlass
+21:40:44 | INFO: Blender create Mesh node B|items|items|birch
+21:40:44 | INFO: Blender create Mesh node V|decor|ldk|navy
+21:40:44 | INFO: Blender create Mesh node N|items|travertineSlab
+21:40:44 | INFO: Blender create Mesh node B|items|items|tyre
+21:40:44 | INFO: Blender create Mesh node B|items|items|car
+21:40:44 | INFO: Blender create Mesh node B|items|items|carGlass
+21:40:44 | INFO: Blender create Mesh node B|items|items|concrete
+21:40:44 | INFO: Blender create Mesh node B|items|items|anthracite
+21:40:44 | INFO: Blender create Mesh node B|items|items|teak
+21:40:44 | INFO: Blender create Mesh node V|decor|garden|navyOut
+21:40:44 | INFO: Blender create Mesh node N|items|glow
+21:40:45 | INFO: Blender create Mesh node N|items|shade
+21:40:45 | INFO: Blender create Mesh node N|items|glowFront
+21:40:45 | INFO: Blender create Mesh node N|items|glowOut
+21:40:45 | INFO: Blender create Mesh node V|decor|ldk|lemon
+21:40:45 | INFO: Blender create Mesh node V|decor|ldk|oak
+21:40:45 | INFO: Blender create Mesh node V|decor|ldk|walnut
+21:40:45 | INFO: Blender create Mesh node V|decor|ldk|stoneware
+21:40:45 | INFO: Blender create Mesh node V|decor|kid|stoneware
+21:40:45 | INFO: Blender create Mesh node V|decor|master|stoneware
+21:40:45 | INFO: Blender create Mesh node V|decor|ensuite|stoneware
+21:40:45 | INFO: Blender create Mesh node V|decor|bath|stoneware
+21:40:45 | INFO: Blender create Mesh node V|decor|pantry|stoneware
+21:40:45 | INFO: Blender create Mesh node V|decor|garden|stoneware
+21:40:45 | INFO: Blender create Mesh node V|decor|ldk|stonewareDark
+21:40:45 | INFO: Blender create Mesh node V|decor|ensuite|stonewareDark
+21:40:45 | INFO: Blender create Mesh node V|decor|guest|stonewareDark
+21:40:45 | INFO: Blender create Mesh node V|decor|wc|stonewareDark
+21:40:45 | INFO: Blender create Mesh node V|decor|pantry|stonewareDark
+21:40:45 | INFO: Blender create Mesh node V|decor|garden|stonewareDark
+21:40:45 | INFO: Blender create Mesh node V|decor|ldk|paper
+21:40:45 | INFO: Blender create Mesh node V|decor|kid|paper
+21:40:45 | INFO: Blender create Mesh node V|decor|ldk|linenCharcoal
+21:40:45 | INFO: Blender create Mesh node V|decor|master|linenCharcoal
+21:40:45 | INFO: Blender create Mesh node V|decor|ldk|book7
+21:40:45 | INFO: Blender create Mesh node V|decor|kid|book7
+21:40:45 | INFO: Blender create Mesh node V|decor|master|book7
+21:40:45 | INFO: Blender create Mesh node V|decor|guest|book7
+21:40:45 | INFO: Blender create Mesh node V|decor|ldk|book8
+21:40:45 | INFO: Blender create Mesh node V|decor|hall|book8
+21:40:45 | INFO: Blender create Mesh node V|decor|kid|book8
+21:40:45 | INFO: Blender create Mesh node V|decor|master|book8
+21:40:45 | INFO: Blender create Mesh node V|decor|ldk|book3
+21:40:45 | INFO: Blender create Mesh node V|decor|kid|book3
+21:40:45 | INFO: Blender create Mesh node V|decor|ldk|book1
+21:40:45 | INFO: Blender create Mesh node V|decor|kid|book1
+21:40:45 | INFO: Blender create Mesh node V|decor|ldk|book5
+21:40:45 | INFO: Blender create Mesh node V|decor|kid|book5
+21:40:45 | INFO: Blender create Mesh node V|decor|guest|book5
+21:40:45 | INFO: Blender create Mesh node B|items|items|paper
+21:40:45 | INFO: Blender create Mesh node B|items|items|art1
+21:40:45 | INFO: Blender create Mesh node V|decor|hall|book6
+21:40:45 | INFO: Blender create Mesh node V|decor|kid|book6
+21:40:45 | INFO: Blender create Mesh node V|decor|master|book6
+21:40:45 | INFO: Blender create Mesh node B|items|items|art4
+21:40:45 | INFO: Blender create Mesh node B|items|items|art6
+21:40:45 | INFO: Blender create Mesh node B|items|items|art3
+21:40:45 | INFO: Blender create Mesh node V|decor|kid|book2
+21:40:45 | INFO: Blender create Mesh node V|decor|kid|book9
+21:40:45 | INFO: Blender create Mesh node V|decor|master|book9
+21:40:45 | INFO: Blender create Mesh node V|decor|kid|book4
+21:40:45 | INFO: Blender create Mesh node V|decor|guest|book4
+21:40:45 | INFO: Blender create Mesh node V|decor|kid|art7
+21:40:45 | INFO: Blender create Mesh node B|items|items|art5
+21:40:45 | INFO: Blender create Mesh node B|items|items|art2
+21:40:45 | INFO: Blender create Mesh node V|decor|ensuite|teak
+21:40:45 | INFO: Blender create Mesh node V|decor|ensuite|frame
+21:40:45 | INFO: Blender create Mesh node V|decor|ensuite|towel
+21:40:45 | INFO: Blender create Mesh node V|decor|bath|towel
+21:40:45 | INFO: Blender create Mesh node B|items|items|art8
+21:40:45 | INFO: Blender create Mesh node B|items|items|art7
+21:40:45 | INFO: Blender create Mesh node B|arch|doorD1|oakDoor
+21:40:45 | INFO: Blender create Mesh node B|arch|doorD1|frame
+21:40:45 | INFO: Blender create Mesh node B|arch|doorD2|oak
+21:40:45 | INFO: Blender create Mesh node B|arch|doorD2|frame
+21:40:45 | INFO: Blender create Mesh node B|arch|doorD3|oak
+21:40:45 | INFO: Blender create Mesh node B|arch|doorD3|frame
+21:40:45 | INFO: Blender create Mesh node B|arch|doorD4|oak
+21:40:45 | INFO: Blender create Mesh node B|arch|doorD4|frame
+21:40:45 | INFO: Blender create Mesh node B|arch|doorD5|oak
+21:40:45 | INFO: Blender create Mesh node B|arch|doorD5|frame
+21:40:45 | INFO: Blender create Mesh node B|arch|doorD6|oak
+21:40:45 | INFO: Blender create Mesh node B|arch|doorD6|frame
+21:40:45 | INFO: Blender create Mesh node B|arch|doorD7|oak
+21:40:45 | INFO: Blender create Mesh node B|arch|doorD7|frame
+21:40:45 | INFO: Blender create Mesh node B|arch|doorD8|oak
+21:40:45 | INFO: Blender create Mesh node B|arch|doorD8|frame
+21:40:45 | INFO: Blender create Mesh node B|arch|doorD10|garageDoor
+21:40:45 | INFO: Blender create Mesh node B|arch|doorD10|frame
+21:40:45 | INFO: glTF import finished in 2.55s
+00:09.766  cycles           | WARNING CUEW initialization failed: Error opening the library
+00:09.781  cycles           | WARNING HIPEW initialization failed: Error opening HIP dynamic library
+[   3.4s] device CPU samples 8
+21:40:45 | INFO: Data are loaded, start creating Blender stuff
+21:40:45 | INFO: Blender create Mesh node wood_root_bowl_50k_uv.001
+21:40:45 | INFO: glTF import finished in 0.04s
+21:40:45 | INFO: Data are loaded, start creating Blender stuff
+21:40:45 | INFO: Blender create Mesh node Cube.001
+21:40:45 | INFO: glTF import finished in 0.05s
+21:40:45 | INFO: Data are loaded, start creating Blender stuff
+21:40:45 | INFO: Blender create Mesh node HaworthiaScan_Model_2.001
+21:40:45 | INFO: glTF import finished in 0.07s
+21:40:45 | INFO: Data are loaded, start creating Blender stuff
+21:40:45 | INFO: Blender create Mesh node Cylinder.009
+21:40:45 | INFO: glTF import finished in 0.06s
+21:40:45 | INFO: Data are loaded, start creating Blender stuff
+21:40:45 | INFO: Blender create Mesh node Plane.006
+21:40:45 | INFO: Blender create Mesh node Plane.005
+21:40:45 | INFO: glTF import finished in 0.06s
+C:\Users\Stefan Novachki\Desktop\mario-kukja\tools\blender\bake.py:95: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m.use_nodes = True
+21:40:45 | INFO: Data are loaded, start creating Blender stuff
+21:40:45 | INFO: Blender create Mesh node Plane.014
+21:40:45 | INFO: Blender create Mesh node Plane.003
+21:40:45 | INFO: Blender create Mesh node Cylinder.012
+21:40:46 | INFO: Blender create Mesh node Plane.019
+21:40:46 | INFO: Blender create Mesh node Cylinder.015
+21:40:46 | INFO: glTF import finished in 0.12s
+21:40:46 | INFO: Data are loaded, start creating Blender stuff
+21:40:46 | INFO: Blender create Mesh node Circle.1291
+21:40:46 | INFO: Blender create Mesh node Circle.1208
+21:40:46 | INFO: Blender create Mesh node Circle.151
+21:40:46 | INFO: Blender create Mesh node Circle.136
+21:40:46 | INFO: Blender create Mesh node Circle.120
+21:40:46 | INFO: Blender create Mesh node Circle.097
+21:40:46 | INFO: Blender create Mesh node Circle.075
+21:40:46 | INFO: Blender create Mesh node Circle.046
+21:40:46 | INFO: Blender create Mesh node Circle.002
+21:40:46 | INFO: glTF import finished in 0.24s
+21:40:46 | INFO: Data are loaded, start creating Blender stuff
+21:40:46 | INFO: Blender create Mesh node Plane.489
+21:40:46 | INFO: glTF import finished in 0.05s
+21:40:46 | INFO: Data are loaded, start creating Blender stuff
+21:40:46 | INFO: Blender create Mesh node mesh.001
+21:40:46 | INFO: Blender create Mesh node Plane.002
+21:40:46 | INFO: Blender create Mesh node Circle.001
+21:40:46 | INFO: Blender create Mesh node Circle
+21:40:46 | INFO: glTF import finished in 0.35s
+21:40:46 | INFO: Data are loaded, start creating Blender stuff
+21:40:46 | INFO: Blender create Mesh node potted_plant_01_base_low
+21:40:47 | INFO: glTF import finished in 0.18s
+21:40:47 | INFO: Data are loaded, start creating Blender stuff
+21:40:47 | INFO: Blender create Mesh node tree_small_02_leaves
+21:40:47 | INFO: Blender create Mesh node BezierCurve.002
+21:40:47 | INFO: glTF import finished in 0.53s
+21:40:47 | INFO: Data are loaded, start creating Blender stuff
+21:40:47 | INFO: Blender create Mesh node island_tree_02_leaves
+21:40:48 | INFO: Blender create Mesh node mesh.001
+21:40:48 | INFO: glTF import finished in 0.57s
+21:40:48 | INFO: Data are loaded, start creating Blender stuff
+21:40:48 | INFO: Blender create Mesh node tree_small_02_leaves
+21:40:48 | INFO: Blender create Mesh node BezierCurve.002
+21:40:48 | INFO: glTF import finished in 0.23s
+21:40:48 | INFO: Data are loaded, start creating Blender stuff
+21:40:48 | INFO: Blender create Mesh node island_tree_02_leaves
+21:40:48 | INFO: Blender create Mesh node mesh.001
+21:40:48 | INFO: glTF import finished in 0.30s
+[   7.6s] styling objects 210 trees 10 + light 10
+C:\Users\Stefan Novachki\Desktop\mario-kukja\tools\blender\bake.py:156: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  world.use_nodes = True
+[   7.8s] baking arch day 2048
+02:23.500  render           | Saved: 'C:\Users\Stefan Novachki\Desktop\mario-kukja\bake\_dn_lm_arch_day.exr'
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+[ 137.4s]   done arch day max 9.770515441894531 mean 0.1830228716135025
+[ 137.4s] baking arch lamp 2048
+04:54.297  render           | Saved: 'C:\Users\Stefan Novachki\Desktop\mario-kukja\bake\_dn_lm_arch_lamp.exr'
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+[ 288.2s]   done arch lamp max 44.848079681396484 mean 0.018475569784641266
+[ 289.4s] saved arch
+[ 289.6s] baking items day 2048
+06:37.156  render           | Saved: 'C:\Users\Stefan Novachki\Desktop\mario-kukja\bake\_dn_lm_items_day.exr'
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+[ 391.1s]   done items day max 27.81443214416504 mean 0.026004446670413017
+[ 391.1s] baking items lamp 2048
+09:03.781  render           | Saved: 'C:\Users\Stefan Novachki\Desktop\mario-kukja\bake\_dn_lm_items_lamp.exr'
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+[ 537.9s]   done items lamp max 128.18789672851562 mean 0.026814689859747887
+[ 539.6s] saved items
+[ 539.9s] baking site day 2048
+10:18.110  render           | Saved: 'C:\Users\Stefan Novachki\Desktop\mario-kukja\bake\_dn_lm_site_day.exr'
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+[ 612.0s]   done site day max 3.1986329555511475 mean 0.3048328459262848
+[ 612.0s] baking site lamp 2048
+11:13.797  render           | Saved: 'C:\Users\Stefan Novachki\Desktop\mario-kukja\bake\_dn_lm_site_lamp.exr'
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+[ 667.6s]   done site lamp max 24.16621208190918 mean 0.0012049282668158412
+[ 668.6s] saved site
+C:\Users\Stefan Novachki\Desktop\mario-kukja\tools\blender\bake.py:330: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  probe_mat.use_nodes = True
+[ 692.7s] vertex bake styling day 2 objects 1232013 vertices 8 samples 21.8 s
+[ 739.4s] vertex bake styling lamp 2 objects 1232013 vertices 16 samples 46.7 s
+Warning: No mesh data to join
+INFO Draco is available, use library at C:\Program Files\Blender Foundation\Blender 5.2\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_draco_bridge.dll
+INFO MeshOptimizer is available, use library at C:\Program Files\Blender Foundation\Blender 5.2\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_meshopt_bridge.dll
+21:53:07 | INFO: Starting glTF 2.0 export
+21:53:07 | INFO: Extracting primitive: wood_root_bowl_50k_uv.003
+21:53:07 | INFO: Primitives created: 1
+21:53:07 | INFO: Extracting primitive: wood_root_bowl_50k_uv.004
+21:53:08 | INFO: Primitives created: 1
+21:53:08 | INFO: Extracting primitive: wood_root_bowl_50k_uv.005
+21:53:08 | INFO: Primitives created: 1
+21:53:08 | INFO: Extracting primitive: wood_root_bowl_50k_uv.006
+21:53:08 | INFO: Primitives created: 1
+21:53:08 | INFO: Extracting primitive: wood_root_bowl_50k_uv.007
+21:53:08 | INFO: Primitives created: 1
+21:53:08 | INFO: Extracting primitive: wood_root_bowl_50k_uv.008
+21:53:08 | INFO: Primitives created: 1
+21:53:08 | INFO: Extracting primitive: wood_root_bowl_50k_uv.009
+21:53:08 | INFO: Primitives created: 1
+21:53:08 | INFO: Extracting primitive: wood_root_bowl_50k_uv.010
+21:53:08 | INFO: Primitives created: 1
+21:53:08 | INFO: Extracting primitive: wood_root_bowl_50k_uv.011
+21:53:08 | INFO: Primitives created: 1
+21:53:08 | INFO: Extracting primitive: wood_root_bowl_50k_uv.012
+21:53:08 | INFO: Primitives created: 1
+21:53:08 | INFO: Extracting primitive: wood_root_bowl_50k_uv.013
+21:53:08 | INFO: Primitives created: 1
+21:53:08 | INFO: Extracting primitive: wood_root_bowl_50k_uv.014
+21:53:08 | INFO: Primitives created: 1
+21:53:08 | INFO: Extracting primitive: wood_root_bowl_50k_uv.015
+21:53:08 | INFO: Primitives created: 1
+21:53:08 | INFO: Extracting primitive: wood_root_bowl_50k_uv.016
+21:53:08 | INFO: Primitives created: 1
+21:53:08 | INFO: Extracting primitive: wood_root_bowl_50k_uv.017
+21:53:08 | INFO: Primitives created: 1
+21:53:08 | INFO: Extracting primitive: wood_root_bowl_50k_uv.018
+21:53:08 | INFO: Primitives created: 1
+21:53:08 | INFO: Extracting primitive: wood_root_bowl_50k_uv.019
+21:53:08 | INFO: Primitives created: 1
+21:53:08 | INFO: Extracting primitive: wood_root_bowl_50k_uv.020
+21:53:08 | INFO: Primitives created: 1
+21:53:08 | INFO: Extracting primitive: wood_root_bowl_50k_uv.021
+21:53:08 | INFO: Primitives created: 1
+21:53:08 | INFO: Extracting primitive: wood_root_bowl_50k_uv.022
+21:53:08 | INFO: Primitives created: 1
+21:53:08 | INFO: Extracting primitive: wood_root_bowl_50k_uv.023
+21:53:08 | INFO: Primitives created: 1
+21:53:08 | INFO: Extracting primitive: wood_root_bowl_50k_uv.024
+21:53:09 | INFO: Primitives created: 1
+21:53:09 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.001.
+21:53:09 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.002.
+21:53:09 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.003.
+21:53:09 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.004.
+21:53:09 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.005.
+21:53:09 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.006.
+21:53:09 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.007.
+21:53:09 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.008.
+21:53:09 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.009.
+21:53:09 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.010.
+21:53:09 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.011.
+21:53:09 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.012.
+21:53:09 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.013.
+21:53:09 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.014.
+21:53:09 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.015.
+21:53:09 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.016.
+21:53:09 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.017.
+21:53:09 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.018.
+21:53:09 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.019.
+21:53:09 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.020.
+21:53:09 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.021.
+21:53:09 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.022.
+21:53:09 | INFO: Finished glTF 2.0 export in 1.8342564105987549 s
+
+[ 747.4s] wrote C:\Users\Stefan Novachki\Desktop\mario-kukja\site\models\decor-ldk.glb 2.12 MB, 22 meshes, 98686 triangles
+21:53:12 | INFO: Starting glTF 2.0 export
+21:53:12 | INFO: Extracting primitive: wood_root_bowl_50k_uv.026
+21:53:12 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+21:53:12 | INFO: Primitives created: 1
+21:53:12 | INFO: Extracting primitive: wood_root_bowl_50k_uv.027
+21:53:12 | INFO: Primitives created: 1
+21:53:12 | INFO: Extracting primitive: wood_root_bowl_50k_uv.028
+21:53:12 | INFO: Primitives created: 1
+21:53:12 | INFO: Extracting primitive: wood_root_bowl_50k_uv.029
+21:53:12 | INFO: Primitives created: 1
+21:53:12 | INFO: Extracting primitive: wood_root_bowl_50k_uv.030
+21:53:13 | INFO: Primitives created: 1
+21:53:13 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.023.
+21:53:13 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.024.
+21:53:13 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.025.
+21:53:13 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.026.
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1622 vertices, 7560 indices, raw size: 80000, encoded size: 26594, compression ratio: 3.01
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 2298 vertices, 12000 indices, raw size: 115920, encoded size: 40143, compression ratio: 2.89
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 5367 vertices, 29982 indices, raw size: 274644, encoded size: 65302, compression ratio: 4.21
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 22445 vertices, 113172 indices, raw size: 1122904, encoded size: 258793, compression ratio: 4.34
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 640 vertices, 3780 indices, raw size: 33160, encoded size: 10157, compression ratio: 3.26
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 226 vertices, 972 indices, raw size: 10984, encoded size: 3702, compression ratio: 2.97
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 144 vertices, 564 indices, raw size: 6888, encoded size: 2545, compression ratio: 2.71
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 340 vertices, 1992 indices, raw size: 17584, encoded size: 5809, compression ratio: 3.03
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 492 vertices, 2904 indices, raw size: 25488, encoded size: 8310, compression ratio: 3.07
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 34 vertices, 192 indices, raw size: 1744, encoded size: 859, compression ratio: 2.03
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 172 vertices, 756 indices, raw size: 8392, encoded size: 2746, compression ratio: 3.06
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 24 vertices, 36 indices, raw size: 1032, encoded size: 559, compression ratio: 1.85
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 24 vertices, 36 indices, raw size: 1032, encoded size: 569, compression ratio: 1.81
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 24 vertices, 36 indices, raw size: 1032, encoded size: 567, compression ratio: 1.82
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 48 vertices, 72 indices, raw size: 2064, encoded size: 911, compression ratio: 2.27
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 24 vertices, 36 indices, raw size: 1032, encoded size: 557, compression ratio: 1.85
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 3671 vertices, 12000 indices, raw size: 167000, encoded size: 53870, compression ratio: 3.10
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 6020 vertices, 26787 indices, raw size: 291694, encoded size: 87762, compression ratio: 3.32
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 3516 vertices, 12000 indices, raw size: 164200, encoded size: 50199, compression ratio: 3.27
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1653 vertices, 9372 indices, raw size: 84864, encoded size: 24984, compression ratio: 3.40
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1653 vertices, 9372 indices, raw size: 84864, encoded size: 25577, compression ratio: 3.32
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 12691 vertices, 52437 indices, raw size: 612514, encoded size: 202233, compression ratio: 3.03
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 13621 vertices, 33999 indices, raw size: 612838, encoded size: 220928, compression ratio: 2.77
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 24 vertices, 36 indices, raw size: 1032, encoded size: 561, compression ratio: 1.84
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 24 vertices, 36 indices, raw size: 1032, encoded size: 562, compression ratio: 1.84
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 3516 vertices, 12000 indices, raw size: 164160, encoded size: 48908, compression ratio: 21:53:13 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.027.
+21:53:13 | INFO: Finished glTF 2.0 export in 0.4253687858581543 s
+
+[ 751.0s] wrote C:\Users\Stefan Novachki\Desktop\mario-kukja\site\models\decor-hall.glb 1.55 MB, 5 meshes, 24023 triangles
+Warning: No mesh data to join
+21:53:15 | INFO: Starting glTF 2.0 export
+21:53:15 | INFO: Extracting primitive: wood_root_bowl_50k_uv.032
+21:53:15 | INFO: Primitives created: 1
+21:53:15 | INFO: Extracting primitive: wood_root_bowl_50k_uv.033
+21:53:15 | INFO: Primitives created: 1
+21:53:15 | INFO: Extracting primitive: wood_root_bowl_50k_uv.034
+21:53:15 | INFO: Primitives created: 1
+21:53:15 | INFO: Extracting primitive: wood_root_bowl_50k_uv.035
+21:53:15 | INFO: Primitives created: 1
+21:53:15 | INFO: Extracting primitive: wood_root_bowl_50k_uv.036
+21:53:15 | INFO: Primitives created: 1
+21:53:15 | INFO: Extracting primitive: wood_root_bowl_50k_uv.037
+21:53:15 | INFO: Primitives created: 1
+21:53:15 | INFO: Extracting primitive: wood_root_bowl_50k_uv.038
+21:53:15 | INFO: Primitives created: 1
+21:53:15 | INFO: Extracting primitive: wood_root_bowl_50k_uv.039
+21:53:15 | INFO: Primitives created: 1
+21:53:15 | INFO: Extracting primitive: wood_root_bowl_50k_uv.040
+21:53:15 | INFO: Primitives created: 1
+21:53:15 | INFO: Extracting primitive: wood_root_bowl_50k_uv.041
+21:53:15 | INFO: Primitives created: 1
+21:53:15 | INFO: Extracting primitive: wood_root_bowl_50k_uv.042
+21:53:15 | INFO: Primitives created: 1
+21:53:15 | INFO: Extracting primitive: wood_root_bowl_50k_uv.043
+21:53:15 | INFO: Primitives created: 1
+21:53:15 | INFO: Extracting primitive: wood_root_bowl_50k_uv.044
+21:53:15 | INFO: Primitives created: 1
+21:53:15 | INFO: Extracting primitive: wood_root_bowl_50k_uv.045
+21:53:15 | INFO: Primitives created: 1
+21:53:15 | INFO: Extracting primitive: wood_root_bowl_50k_uv.046
+21:53:15 | INFO: Primitives created: 1
+21:53:15 | INFO: Extracting primitive: wood_root_bowl_50k_uv.047
+21:53:15 | INFO: Primitives created: 1
+21:53:15 | INFO: Extracting primitive: wood_root_bowl_50k_uv.048
+21:53:15 | INFO: Primitives created: 1
+21:53:15 | INFO: Extracting primitive: wood_root_bowl_50k_uv.049
+21:53:15 | INFO: Primitives created: 1
+21:53:15 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.028.
+21:53:15 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.029.
+21:53:15 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.030.
+21:53:15 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.031.
+21:53:15 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.032.
+21:53:15 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.033.
+21:53:15 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.034.
+21:53:15 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.035.
+21:53:15 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.036.
+21:53:15 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.037.
+21:53:15 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.038.
+21:53:15 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.039.
+21:53:15 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.040.
+21:53:15 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.041.
+21:53:15 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.042.
+21:53:15 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.043.
+21:53:15 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.044.
+21:53:15 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.045.
+21:53:15 | INFO: Finished glTF 2.0 export in 0.19474148750305176 s
+
+[ 753.7s] wrote C:\Users\Stefan Novachki\Desktop\mario-kukja\site\models\decor-kid.glb 0.14 MB, 18 meshes, 12366 triangles
+21:53:19 | INFO: Starting glTF 2.0 export
+21:53:19 | INFO: Extracting primitive: wood_root_bowl_50k_uv.051
+21:53:19 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+21:53:19 | INFO: Primitives created: 1
+21:53:19 | INFO: Extracting primitive: wood_root_bowl_50k_uv.052
+21:53:19 | INFO: Primitives created: 1
+21:53:19 | INFO: Extracting primitive: wood_root_bowl_50k_uv.053
+21:53:19 | INFO: Primitives created: 1
+21:53:19 | INFO: Extracting primitive: wood_root_bowl_50k_uv.054
+21:53:19 | INFO: Primitives created: 1
+21:53:19 | INFO: Extracting primitive: wood_root_bowl_50k_uv.055
+21:53:19 | INFO: Primitives created: 1
+21:53:19 | INFO: Extracting primitive: wood_root_bowl_50k_uv.056
+21:53:19 | INFO: Primitives created: 1
+21:53:19 | INFO: Extracting primitive: wood_root_bowl_50k_uv.057
+21:53:19 | INFO: Primitives created: 1
+21:53:19 | INFO: Extracting primitive: wood_root_bowl_50k_uv.058
+21:53:19 | INFO: Primitives created: 1
+21:53:19 | INFO: Extracting primitive: wood_root_bowl_50k_uv.059
+21:53:19 | INFO: Primitives created: 1
+21:53:19 | INFO: Extracting primitive: wood_root_bowl_50k_uv.060
+21:53:19 | INFO: Primitives created: 1
+21:53:19 | INFO: Extracting primitive: wood_root_bowl_50k_uv.061
+21:53:19 | INFO: Primitives created: 1
+21:53:19 | INFO: Extracting primitive: wood_root_bowl_50k_uv.062
+21:53:19 | INFO: Primitives created: 1
+21:53:19 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.046.
+21:53:19 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.047.
+21:53:19 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.048.
+21:53:19 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.049.
+21:53:19 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.050.
+21:53:19 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.051.
+21:53:19 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.052.
+21:53:19 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.053.
+3.36
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 8347 vertices, 25998 indices, raw size: 385876, encoded size: 115654, compression ratio: 3.34
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1717 vertices, 9714 indices, raw size: 88108, encoded size: 27884, compression ratio: 3.16
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1572 vertices, 8364 indices, raw size: 79608, encoded size: 17435, compression ratio: 4.57
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1734 vertices, 8880 indices, raw size: 87040, encoded size: 22220, compression ratio: 3.92
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 548 vertices, 2820 indices, raw size: 27560, encoded size: 8205, compression ratio: 3.36
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 530 vertices, 2760 indices, raw size: 26720, encoded size: 7335, compression ratio: 3.64
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 226 vertices, 864 indices, raw size: 10688, encoded size: 2873, compression ratio: 3.72
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 142 vertices, 840 indices, raw size: 7360, encoded size: 2774, compression ratio: 2.65
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 128 vertices, 480 indices, raw size: 6000, encoded size: 2338, compression ratio: 2.57
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 166 vertices, 288 indices, raw size: 7216, encoded size: 2613, compression ratio: 2.76
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 176 vertices, 252 indices, raw size: 7544, encoded size: 2777, compression ratio: 2.72
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 226 vertices, 360 indices, raw size: 9760, encoded size: 3366, compression ratio: 2.90
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 104 vertices, 144 indices, raw size: 4448, encoded size: 1735, compression ratio: 2.56
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 256 vertices, 360 indices, raw size: 10960, encoded size: 3789, compression ratio: 2.89
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 130 vertices, 180 indices, raw size: 5560, encoded size: 2118, compression ratio: 2.63
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 214 vertices, 360 indices, raw size: 9280, encoded size: 3311, compression ratio: 2.80
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 122 vertices, 180 indices, raw size: 5240, encoded size: 1903, compression ratio: 2.75
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 150 vertices, 216 indices, raw size: 6432, encoded size: 2302, compression ratio: 2.79
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 30 vertices, 36 indices, raw size: 1192, encoded size: 712, compression ratio: 1.67
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1048 vertices, 5406 indices, raw size: 52732, encoded size: 15960, compression ratio: 3.30
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 4044 vertices, 22008 indices, raw size: 205776, encoded size: 45097, compression ratio: 4.56
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 4136 vertices, 21288 indices, raw size: 208016, encoded size: 50001, compression ratio: 4.16
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 2081 vertices, 11334 indices, raw size: 105908, encoded size: 29569, compression ratio: 3.58
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 102 vertices, 600 indices, raw size: 5280, encoded size: 2072, compression ratio: 2.55
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 144 vertices, 564 indices, raw size: 6888, encoded size: 2440, compression ratio: 2.82
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 72 vertices, 108 indices, raw size: 3096, encoded size: 1259, compression ratio: 2.46
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 24 v21:53:19 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.054.
+21:53:19 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.055.
+21:53:19 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.056.
+21:53:19 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.057.
+21:53:19 | INFO: Finished glTF 2.0 export in 0.49457573890686035 s
+
+[ 757.8s] wrote C:\Users\Stefan Novachki\Desktop\mario-kukja\site\models\decor-master.glb 1.48 MB, 12 meshes, 29856 triangles
+Warning: No mesh data to join
+21:53:22 | INFO: Starting glTF 2.0 export
+21:53:22 | INFO: Extracting primitive: wood_root_bowl_50k_uv.064
+21:53:23 | INFO: Primitives created: 1
+21:53:23 | INFO: Extracting primitive: wood_root_bowl_50k_uv.065
+21:53:23 | INFO: Primitives created: 1
+21:53:23 | INFO: Extracting primitive: wood_root_bowl_50k_uv.066
+21:53:23 | INFO: Primitives created: 1
+21:53:23 | INFO: Extracting primitive: wood_root_bowl_50k_uv.067
+21:53:23 | INFO: Primitives created: 1
+21:53:23 | INFO: Extracting primitive: wood_root_bowl_50k_uv.068
+21:53:23 | INFO: Primitives created: 1
+21:53:23 | INFO: Extracting primitive: wood_root_bowl_50k_uv.069
+21:53:23 | INFO: Primitives created: 1
+21:53:23 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.058.
+21:53:23 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.059.
+21:53:23 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.060.
+21:53:23 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.061.
+21:53:23 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.062.
+21:53:23 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.063.
+21:53:23 | INFO: Finished glTF 2.0 export in 0.2643606662750244 s
+
+[ 761.1s] wrote C:\Users\Stefan Novachki\Desktop\mario-kukja\site\models\decor-ensuite.glb 0.18 MB, 6 meshes, 9885 triangles
+21:53:26 | INFO: Starting glTF 2.0 export
+21:53:26 | INFO: Extracting primitive: wood_root_bowl_50k_uv.071
+21:53:26 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+21:53:26 | INFO: Primitives created: 1
+21:53:26 | INFO: Extracting primitive: wood_root_bowl_50k_uv.072
+21:53:26 | INFO: Primitives created: 1
+21:53:26 | INFO: Extracting primitive: wood_root_bowl_50k_uv.073
+21:53:26 | INFO: Primitives created: 1
+21:53:26 | INFO: Extracting primitive: wood_root_bowl_50k_uv.074
+21:53:26 | INFO: Primitives created: 1
+21:53:26 | INFO: Extracting primitive: wood_root_bowl_50k_uv.075
+21:53:26 | INFO: Primitives created: 1
+21:53:26 | INFO: Extracting primitive: wood_root_bowl_50k_uv.076
+21:53:26 | INFO: Primitives created: 1
+21:53:26 | INFO: Extracting primitive: wood_root_bowl_50k_uv.077
+21:53:26 | INFO: Primitives created: 1
+21:53:26 | INFO: Extracting primitive: wood_root_bowl_50k_uv.078
+21:53:26 | INFO: Primitives created: 1
+21:53:27 | INFO: Extracting primitive: wood_root_bowl_50k_uv.079
+21:53:27 | INFO: Primitives created: 1
+21:53:27 | INFO: Extracting primitive: wood_root_bowl_50k_uv.080
+21:53:27 | INFO: Primitives created: 1
+21:53:27 | INFO: Extracting primitive: wood_root_bowl_50k_uv.081
+21:53:27 | INFO: Primitives created: 1
+21:53:27 | INFO: Extracting primitive: wood_root_bowl_50k_uv.082
+21:53:27 | INFO: Primitives created: 1
+21:53:27 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.064.
+21:53:27 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.065.
+21:53:27 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.066.
+21:53:27 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.067.
+21:53:27 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.068.
+21:53:27 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.069.
+21:53:27 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.070.
+21:53:27 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.071.
+21:53:27 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.072.
+21:53:27 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.073.
+21:53:27 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.074.
+21:53:27 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.075.
+21:53:27 | INFO: Finished glTF 2.0 export in 0.6319067478179932 s
+
+[ 765.3s] wrote C:\Users\Stefan Novachki\Desktop\mario-kukja\site\models\decor-guest.glb 1.77 MB, 12 meshes, 47601 triangles
+21:53:33 | INFO: Starting glTF 2.0 export
+21:53:33 | INFO: Extracting primitive: wood_root_bowl_50k_uv.084
+21:53:33 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+21:53:33 | INFO: Primitives created: 1
+21:53:33 | INFO: Extracting primitive: wood_root_bowl_50k_uv.085
+21:53:33 | INFO: Primitives created: 1
+21:53:33 | INFO: Extracting primitive: wood_root_bowl_50k_uv.086
+21:53:33 | INFO: Primitives created: 1
+21:53:33 | INFO: Extracting primitive: wood_root_bowl_50k_uv.087
+21:53:33 | INFO: Primitives created: 1
+21:53:33 | INFO: Extracting primitive: wood_root_bowl_50k_uv.088
+21:53:34 | INFO: Primitives created: 1
+21:53:34 | INFO: Extracting primitive: wood_root_bowl_50k_uv.089
+21:53:34 | INFO: Primitives created: 1
+21:53:34 | INFO: Extracting primitive: wood_root_bowl_50k_uv.090
+21:53:34 | INFO: Primitives created: 1
+21:53:34 | INFO: Extracting primitive: wood_root_bowl_50k_uv.091
+21:53:34 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+21:53:34 | INFO: Primitives created: 1
+21:53:34 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.076.
+21:53:35 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.077.
+21:53:35 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.078.
+21:53:35 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.079.
+ertices, 36 indices, raw size: 1032, encoded size: 559, compression ratio: 1.85
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 24 vertices, 36 indices, raw size: 1032, encoded size: 523, compression ratio: 1.97
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 48 vertices, 72 indices, raw size: 2064, encoded size: 901, compression ratio: 2.29
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 3306 vertices, 18744 indices, raw size: 169728, encoded size: 46064, compression ratio: 3.68
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1653 vertices, 9372 indices, raw size: 84864, encoded size: 25130, compression ratio: 3.38
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 6020 vertices, 26787 indices, raw size: 291614, encoded size: 79125, compression ratio: 3.69
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 66 vertices, 384 indices, raw size: 3408, encoded size: 1399, compression ratio: 2.44
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 66 vertices, 384 indices, raw size: 3408, encoded size: 1404, compression ratio: 2.43
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 216 vertices, 324 indices, raw size: 9288, encoded size: 3230, compression ratio: 2.88
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 156 vertices, 348 indices, raw size: 6936, encoded size: 1872, compression ratio: 3.71
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 296 vertices, 1428 indices, raw size: 14696, encoded size: 4566, compression ratio: 3.22
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 13621 vertices, 33999 indices, raw size: 612838, encoded size: 223483, compression ratio: 2.74
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 4044 vertices, 22008 indices, raw size: 205776, encoded size: 46661, compression ratio: 4.41
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 3356 vertices, 17100 indices, raw size: 168440, encoded size: 40485, compression ratio: 4.16
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 2017 vertices, 10992 indices, raw size: 102664, encoded size: 27971, compression ratio: 3.67
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 244 vertices, 1440 indices, raw size: 12640, encoded size: 4252, compression ratio: 2.97
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 48 vertices, 72 indices, raw size: 2064, encoded size: 915, compression ratio: 2.26
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 48 vertices, 72 indices, raw size: 2064, encoded size: 917, compression ratio: 2.25
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 24 vertices, 36 indices, raw size: 1032, encoded size: 583, compression ratio: 1.77
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1717 vertices, 9714 indices, raw size: 88108, encoded size: 28727, compression ratio: 3.07
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 3663 vertices, 12000 indices, raw size: 166640, encoded size: 52711, compression ratio: 3.16
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1653 vertices, 9372 indices, raw size: 84864, encoded size: 25275, compression ratio: 3.36
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 8347 vertices, 25998 indices, raw size: 385876, encoded size: 111327, compression ratio: 3.47
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 109188 vertices, 270000 indices, raw size: 5447520, encoded size: 1480271, compression ratio: 3.68
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 12672 vertices, 62436 indices, raw size: 631232, encoded size: 147329, compression ratio: 4.28
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 142 vertices, 840 indices, raw size: 7360, encoded size: 2806, compression ratio: 2.62
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 142 vertices, 840 indices, raw size: 7360, encoded size21:53:35 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.080.
+21:53:35 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.081.
+21:53:35 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.082.
+21:53:35 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.083.
+21:53:35 | INFO: Finished glTF 2.0 export in 2.235067129135132 s
+
+[ 773.5s] wrote C:\Users\Stefan Novachki\Desktop\mario-kukja\site\models\decor-garden.glb 4.71 MB, 8 meshes, 297531 triangles
+21:53:38 | INFO: Starting glTF 2.0 export
+21:53:38 | INFO: Extracting primitive: wood_root_bowl_50k_uv.092
+21:53:38 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+21:53:38 | INFO: Primitives created: 1
+21:53:38 | INFO: Extracting primitive: wood_root_bowl_50k_uv.093
+21:53:39 | INFO: Primitives created: 1
+21:53:39 | INFO: Extracting primitive: wood_root_bowl_50k_uv.094
+21:53:39 | INFO: Primitives created: 1
+21:53:39 | INFO: Extracting primitive: wood_root_bowl_50k_uv.095
+21:53:39 | INFO: Primitives created: 1
+21:53:39 | INFO: Extracting primitive: wood_root_bowl_50k_uv.096
+21:53:39 | INFO: Primitives created: 1
+21:53:39 | INFO: Extracting primitive: wood_root_bowl_50k_uv.097
+21:53:39 | INFO: Primitives created: 1
+21:53:39 | INFO: Extracting primitive: wood_root_bowl_50k_uv.098
+21:53:39 | INFO: Primitives created: 1
+21:53:39 | INFO: Extracting primitive: wood_root_bowl_50k_uv.099
+21:53:39 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+21:53:39 | INFO: Primitives created: 1
+21:53:39 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.084.
+21:53:39 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.085.
+21:53:39 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.086.
+21:53:39 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.087.
+21:53:39 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.088.
+21:53:39 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.089.
+21:53:39 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.090.
+21:53:39 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.091.
+21:53:40 | INFO: Finished glTF 2.0 export in 1.3350045680999756 s
+
+[ 777.9s] wrote C:\Users\Stefan Novachki\Desktop\mario-kukja\site\models\decor-garden-light.glb 2.26 MB, 8 meshes, 124543 triangles
+Warning: No mesh data to join
+21:53:41 | INFO: Starting glTF 2.0 export
+21:53:41 | INFO: Extracting primitive: Plane.080
+21:53:41 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+21:53:42 | INFO: Primitives created: 1
+21:53:42 | INFO: Extracting primitive: Plane.081
+21:53:42 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+21:53:42 | INFO: Primitives created: 1
+21:53:42 | INFO: Draco encoder: Encoding mesh V|decor|master|calathea_orbifolia_01:d.001.
+21:53:42 | INFO: Draco encoder: Encoding mesh V|decor|master|calathea_orbifolia_01:d.002.
+21:53:42 | INFO: Finished glTF 2.0 export in 0.7950105667114258 s
+
+[ 780.5s] wrote C:\Users\Stefan Novachki\Desktop\mario-kukja\site\models\decor-front.glb 1.86 MB, 2 meshes, 77498 triangles
+Warning: No mesh data to join
+21:53:43 | INFO: Starting glTF 2.0 export
+21:53:43 | INFO: Extracting primitive: Plane.082
+21:53:43 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+21:53:43 | INFO: Primitives created: 1
+21:53:44 | INFO: Extracting primitive: Plane.083
+21:53:44 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+21:53:44 | INFO: Primitives created: 1
+21:53:44 | INFO: Draco encoder: Encoding mesh V|decor|master|calathea_orbifolia_01:d.003.
+21:53:44 | INFO: Draco encoder: Encoding mesh V|decor|master|calathea_orbifolia_01:d.004.
+21:53:44 | INFO: Finished glTF 2.0 export in 0.45691823959350586 s
+
+[ 782.2s] wrote C:\Users\Stefan Novachki\Desktop\mario-kukja\site\models\decor-front-light.glb 1.09 MB, 2 meshes, 25000 triangles
+Warning: No mesh data to join
+21:53:45 | INFO: Starting glTF 2.0 export
+21:53:45 | INFO: Extracting primitive: wood_root_bowl_50k_uv.102
+21:53:45 | INFO: Primitives created: 1
+21:53:45 | INFO: Extracting primitive: wood_root_bowl_50k_uv.103
+21:53:45 | INFO: Primitives created: 1
+21:53:45 | INFO: Extracting primitive: wood_root_bowl_50k_uv.104
+21:53:45 | INFO: Primitives created: 1
+21:53:45 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.092.
+21:53:45 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.093.
+21:53:45 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.094.
+21:53:45 | INFO: Finished glTF 2.0 export in 0.0463719367980957 s
+
+[ 783.2s] wrote C:\Users\Stefan Novachki\Desktop\mario-kukja\site\models\decor-bath.glb 0.01 MB, 3 meshes, 488 triangles
+Warning: No mesh data to join
+21:53:47 | INFO: Starting glTF 2.0 export
+21:53:47 | INFO: Extracting primitive: wood_root_bowl_50k_uv.106
+21:53:47 | INFO: Primitives created: 1
+21:53:47 | INFO: Extracting primitive: wood_root_bowl_50k_uv.107
+21:53:47 | INFO: Primitives created: 1
+21:53:47 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.095.
+21:53:47 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.096.
+21:53:47 | INFO: Finished glTF 2.0 export in 0.05143904685974121 s
+
+[ 785.9s] wrote C:\Users\Stefan Novachki\Desktop\mario-kukja\site\models\decor-pantry.glb 0.01 MB, 2 meshes, 1400 triangles
+Warning: No mesh data to join
+21:53:51 | INFO: Starting glTF 2.0 export
+21:53:51 | INFO: Extracting primitive: wood_root_bowl_50k_uv.109
+21:53:51 | INFO: Primitives created: 1
+21:53:51 | INFO: Draco encoder: Encoding mesh V|decor|ldk|wooden_bowl_01:a.097.
+21:53:51 | INFO: Finished glTF 2.0 export in 0.03491616249084473 s
+
+[ 789.0s] wrote C:\Users\Stefan Novachki\Desktop\mario-kukja\site\models\decor-wc.glb 0.0 MB, 1 meshes, 128 triangles
+[ 790.3s] styling per room: ldk 98686, hall 24023, kid 12366, master 29856, ensuite 9885, guest 47601, garden 297531, front 77498, bath 488, pantry 1400, wc 128
+[ 811.6s] vertex bake trees day 2 objects 573823 vertices 8 samples 19.4 s
+[ 826.9s] vertex bake trees lamp 2 objects 573823 vertices 8 samples 15.2 s
+21:54:32 | INFO: Starting glTF 2.0 export
+21:54:32 | INFO: Extracting primitive: BezierCurve.001
+21:54:32 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+21:54:32 | INFO: Primitives created: 1
+21:54:32 | INFO: Extracting primitive: BezierCurve.015
+21:54:33 | INFO: Primitives created: 1
+21:54:33 | INFO: Extracting primitive: BezierCurve.016
+21:54:33 | INFO: Primitives created: 1
+21:54:33 | INFO: Extracting primitive: BezierCurve.017
+21:54:33 | INFO: Primitives created: 1
+21:54:33 | INFO: Extracting primitive: BezierCurve.018
+21:54:33 | INFO: Primitives created: 1
+21:54:33 | INFO: Extracting primitive: BezierCurve.019
+21:54:33 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+21:54:33 | INFO: Primitives created: 1
+21:54:34 | INFO: Draco encoder: Encoding mesh V|tree|garden|tree_small_02_wood.
+21:54:34 | INFO: Draco encoder: Encoding mesh V|tree|garden|tree_small_02_wood.001.
+21:54:34 | INFO: Draco encoder: Encoding mesh V|tree|garden|tree_small_02_wood.002.
+21:54:34 | INFO: Draco encoder: Encoding mesh V|tree|garden|tree_small_02_wood.003.
+: 2734, compression ratio: 2.69
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 6020 vertices, 26787 indices, raw size: 291054, encoded size: 87143, compression ratio: 3.34
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1653 vertices, 9372 indices, raw size: 84864, encoded size: 24503, compression ratio: 3.46
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1653 vertices, 9372 indices, raw size: 84864, encoded size: 24418, compression ratio: 3.48
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 148454 vertices, 512946 indices, raw size: 7989944, encoded size: 2123095, compression ratio: 3.76
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 30330 vertices, 75000 indices, raw size: 1363200, encoded size: 415528, compression ratio: 3.28
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 12672 vertices, 62436 indices, raw size: 631232, encoded size: 147329, compression ratio: 4.28
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 142 vertices, 840 indices, raw size: 7360, encoded size: 2806, compression ratio: 2.62
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 142 vertices, 840 indices, raw size: 7360, encoded size: 2734, compression ratio: 2.69
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 6020 vertices, 26787 indices, raw size: 291054, encoded size: 87143, compression ratio: 3.34
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1653 vertices, 9372 indices, raw size: 84864, encoded size: 24503, compression ratio: 3.46
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1653 vertices, 9372 indices, raw size: 84864, encoded size: 24418, compression ratio: 3.48
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 50948 vertices, 188982 indices, raw size: 2415884, encoded size: 736336, compression ratio: 3.28
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 21231 vertices, 52500 indices, raw size: 954240, encoded size: 310670, compression ratio: 3.07
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 53755 vertices, 179994 indices, raw size: 2510188, encoded size: 821791, compression ratio: 3.05
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 12132 vertices, 30000 indices, raw size: 545280, encoded size: 180318, compression ratio: 3.02
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 12216 vertices, 45000 indices, raw size: 578640, encoded size: 188804, compression ratio: 3.06
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 120 vertices, 480 indices, raw size: 5760, encoded size: 2067, compression ratio: 2.79
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 66 vertices, 384 indices, raw size: 3408, encoded size: 1399, compression ratio: 2.44
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 102 vertices, 600 indices, raw size: 5280, encoded size: 2077, compression ratio: 2.54
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 490 vertices, 2856 indices, raw size: 25312, encoded size: 6918, compression ratio: 3.66
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 232 vertices, 1344 indices, raw size: 11968, encoded size: 3529, compression ratio: 3.39
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 66 vertices, 384 indices, raw size: 3408, encoded size: 1399, compression ratio: 2.44
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 88388 vertices, 98718 indices, raw size: 3930392, encoded size: 1004868, compression ratio: 3.91
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 16400 vertices, 70500 indices, raw size: 797000, encoded size: 257529, compression ratio: 3.09
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 20079 vertices, 37227 indices, raw size: 877614, encoded size: 329483, compression ratio: 2.66
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 34644 vertices, 97488 indices, raw size: 15821:54:34 | INFO: Draco encoder: Encoding mesh V|tree|garden|tree_small_02_wood.004.
+21:54:34 | INFO: Draco encoder: Encoding mesh V|tree|garden|tree_small_02_wood.005.
+21:54:34 | INFO: Finished glTF 2.0 export in 2.154850959777832 s
+
+[ 832.8s] wrote C:\Users\Stefan Novachki\Desktop\mario-kukja\site\models\trees.glb 7.22 MB, 6 meshes, 238726 triangles
+[ 842.2s] vertex bake light trees day 2 objects 239675 vertices 8 samples 8.3 s
+[ 848.9s] vertex bake light trees lamp 2 objects 239675 vertices 8 samples 6.7 s
+21:54:52 | INFO: Starting glTF 2.0 export
+21:54:52 | INFO: Extracting primitive: BezierCurve.007
+21:54:52 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+21:54:52 | INFO: Primitives created: 1
+21:54:52 | INFO: Extracting primitive: BezierCurve.024
+21:54:53 | INFO: Primitives created: 1
+21:54:53 | INFO: Extracting primitive: BezierCurve.025
+21:54:53 | INFO: Primitives created: 1
+21:54:53 | INFO: Extracting primitive: BezierCurve.026
+21:54:53 | INFO: Primitives created: 1
+21:54:53 | INFO: Extracting primitive: BezierCurve.027
+21:54:53 | INFO: Primitives created: 1
+21:54:53 | INFO: Extracting primitive: BezierCurve.028
+21:54:53 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+21:54:53 | INFO: Primitives created: 1
+21:54:53 | INFO: Draco encoder: Encoding mesh V|treelight|garden|tree_small_02_wood.001.
+21:54:53 | INFO: Draco encoder: Encoding mesh V|treelight|garden|tree_small_02_wood.002.
+21:54:53 | INFO: Draco encoder: Encoding mesh V|treelight|garden|tree_small_02_wood.003.
+21:54:53 | INFO: Draco encoder: Encoding mesh V|treelight|garden|tree_small_02_wood.004.
+21:54:53 | INFO: Draco encoder: Encoding mesh V|treelight|garden|tree_small_02_wood.005.
+21:54:53 | INFO: Draco encoder: Encoding mesh V|treelight|garden|tree_small_02_wood.006.
+21:54:53 | INFO: Finished glTF 2.0 export in 1.114192247390747 s
+
+[ 851.9s] wrote C:\Users\Stefan Novachki\Desktop\mario-kukja\site\models\trees-light.glb 4.12 MB, 6 meshes, 97932 triangles
+[ 851.9s] all done
+0736, encoded size: 420617, compression ratio: 3.76
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 2510 vertices, 10773 indices, raw size: 121946, encoded size: 44301, compression ratio: 2.75
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 331574 vertices, 401472 indices, raw size: 14868808, encoded size: 3270538, compression ratio: 4.55
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 33408 vertices, 39660 indices, raw size: 1415640, encoded size: 382092, compression ratio: 3.70
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 9560 vertices, 37464 indices, raw size: 457328, encoded size: 155504, compression ratio: 2.94
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 11481 vertices, 15732 indices, raw size: 490704, encoded size: 188170, compression ratio: 2.61
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 16492 vertices, 34536 indices, raw size: 728752, encoded size: 209073, compression ratio: 3.49
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 1346 vertices, 5268 indices, raw size: 64376, encoded size: 24669, compression ratio: 2.61
+DracoEncoder | Preserve triangle order: no
+DracoEncoder | Encoded 127592 vertices, 161136 indices, raw size: 5748224, encoded size: 1275264, compression ratio: 4.51
+
+Blender quit

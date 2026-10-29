@@ -1,0 +1,9 @@
+# Only site/ is the website. Everything else is how it was made.
+assets-src/
+bake/
+node_modules/
+tools/
+*.md
+start.bat
+start.command
+site/compare/

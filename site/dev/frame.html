@@ -1,0 +1,12 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Device frame</title>
+<!-- Dev helper: shows a page at phone size, e.g. dev/frame.html?w=390&h=844&src=../index.html%3Fat%3Dldk -->
+<style>html,body{margin:0;background:#cfc9be}iframe{display:block;border:0;background:#e7e1d5}</style>
+<iframe id="f"></iframe>
+<script>
+const q = new URLSearchParams(location.search);
+const f = document.getElementById('f');
+f.width = q.get('w') || 390; f.height = q.get('h') || 844;
+f.src = q.get('src') || '../index.html';
+</script>

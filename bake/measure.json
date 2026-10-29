@@ -1,0 +1,380 @@
+{
+ "desktop KTX2": {
+  "tier": "desktop",
+  "tex": "KTX2",
+  "gpu": "ANGLE (AMD, AMD Radeon RX 7800 XT (0x0000747E) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+  "canvas": [
+   1600,
+   900
+  ],
+  "shadowMap": 4096,
+  "light": {
+   "ldk": {
+    "baked": {
+     "ms": 0.78,
+     "method": "timer",
+     "n": 144
+    },
+    "live": {
+     "ms": 1.37,
+     "method": "timer",
+     "n": 145
+    },
+    "lamps": {
+     "ms": 3.16,
+     "method": "timer",
+     "n": 145
+    }
+   },
+   "terrace": {
+    "baked": {
+     "ms": 0.7,
+     "method": "timer",
+     "n": 145
+    },
+    "live": {
+     "ms": 4.29,
+     "method": "timer",
+     "n": 144
+    },
+    "lamps": {
+     "ms": 5.88,
+     "method": "timer",
+     "n": 144
+    }
+   },
+   "master": {
+    "baked": {
+     "ms": 0.72,
+     "method": "timer",
+     "n": 145
+    },
+    "live": {
+     "ms": 3.79,
+     "method": "timer",
+     "n": 144
+    },
+    "lamps": {
+     "ms": 5.36,
+     "method": "timer",
+     "n": 144
+    }
+   }
+  },
+  "download": {
+   "mb": {
+    "site code": 0.33,
+    "three.js": 3.25,
+    "models": 13.9,
+    "lightmaps": 3.13,
+    "other": 0,
+    "textures": 13.86
+   },
+   "files": {
+    "site code": 36,
+    "three.js": 15,
+    "models": 13,
+    "lightmaps": 3,
+    "other": 1,
+    "textures": 40
+   }
+  },
+  "memory": {
+   "mb": {
+    "textures": 59.51,
+    "drawing, art, sky": 113.13,
+    "models": 15.47,
+    "lightmaps": 12.58
+   },
+   "count": 91,
+   "formats": {
+    "compressed 36492": 78,
+    "RGBA8": 13
+   }
+  },
+  "when": "2026-10-19T18:19:11.964Z"
+ },
+ "desktop JPEG/PNG": {
+  "tier": "desktop",
+  "tex": "JPEG/PNG",
+  "gpu": "ANGLE (AMD, AMD Radeon RX 7800 XT (0x0000747E) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+  "canvas": [
+   1600,
+   900
+  ],
+  "shadowMap": 4096,
+  "light": {
+   "ldk": {
+    "baked": {
+     "ms": 0.82,
+     "method": "timer",
+     "n": 144
+    },
+    "live": {
+     "ms": 1.2,
+     "method": "timer",
+     "n": 145
+    },
+    "lamps": {
+     "ms": 3.7,
+     "method": "timer",
+     "n": 144
+    }
+   },
+   "terrace": {
+    "baked": {
+     "ms": 0.73,
+     "method": "timer",
+     "n": 145
+    },
+    "live": {
+     "ms": 3.62,
+     "method": "timer",
+     "n": 145
+    },
+    "lamps": {
+     "ms": 4.95,
+     "method": "timer",
+     "n": 144
+    }
+   },
+   "master": {
+    "baked": {
+     "ms": 0.73,
+     "method": "timer",
+     "n": 144
+    },
+    "live": {
+     "ms": 3.19,
+     "method": "timer",
+     "n": 144
+    },
+    "lamps": {
+     "ms": 3.93,
+     "method": "timer",
+     "n": 144
+    }
+   }
+  },
+  "download": {
+   "mb": {
+    "site code": 0.3,
+    "three.js": 2.66,
+    "models": 20.78,
+    "lightmaps": 7.06,
+    "other": 0,
+    "textures": 9.24
+   },
+   "files": {
+    "site code": 35,
+    "three.js": 13,
+    "models": 13,
+    "lightmaps": 3,
+    "other": 1,
+    "textures": 40
+   }
+  },
+  "memory": {
+   "mb": {
+    "textures": 238.03,
+    "drawing, art, sky": 113.13,
+    "models": 61.87,
+    "lightmaps": 50.33
+   },
+   "count": 91,
+   "formats": {
+    "RGBA8": 91
+   }
+  },
+  "when": "2026-10-19T18:20:10.029Z"
+ },
+ "light KTX2": {
+  "tier": "light",
+  "tex": "KTX2",
+  "gpu": "ANGLE (AMD, AMD Radeon RX 7800 XT (0x0000747E) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+  "canvas": [
+   585,
+   1266
+  ],
+  "shadowMap": 1024,
+  "light": {
+   "ldk": {
+    "baked": {
+     "ms": 0.31,
+     "method": "timer",
+     "n": 145
+    },
+    "live": {
+     "ms": 3.66,
+     "method": "timer",
+     "n": 145
+    },
+    "lamps": {
+     "ms": 4.38,
+     "method": "timer",
+     "n": 144
+    }
+   },
+   "terrace": {
+    "baked": {
+     "ms": 0.27,
+     "method": "timer",
+     "n": 145
+    },
+    "live": {
+     "ms": 3.73,
+     "method": "timer",
+     "n": 144
+    },
+    "lamps": {
+     "ms": 4.1,
+     "method": "timer",
+     "n": 144
+    }
+   },
+   "master": {
+    "baked": {
+     "ms": 0.31,
+     "method": "timer",
+     "n": 145
+    },
+    "live": {
+     "ms": 3.74,
+     "method": "timer",
+     "n": 144
+    },
+    "lamps": {
+     "ms": 4.94,
+     "method": "timer",
+     "n": 144
+    }
+   }
+  },
+  "download": {
+   "mb": {
+    "site code": 0.33,
+    "three.js": 3.25,
+    "models": 9.1,
+    "lightmaps": 0.95,
+    "other": 0,
+    "textures": 1.86
+   },
+   "files": {
+    "site code": 36,
+    "three.js": 15,
+    "models": 13,
+    "lightmaps": 3,
+    "other": 1,
+    "textures": 40
+   }
+  },
+  "memory": {
+   "mb": {
+    "textures": 14.88,
+    "drawing, art, sky": 43.57,
+    "models": 15.47,
+    "lightmaps": 3.15
+   },
+   "count": 91,
+   "formats": {
+    "compressed 36492": 78,
+    "RGBA8": 13
+   }
+  },
+  "when": "2026-10-19T18:21:05.565Z"
+ },
+ "light JPEG/PNG": {
+  "tier": "light",
+  "tex": "JPEG/PNG",
+  "gpu": "ANGLE (AMD, AMD Radeon RX 7800 XT (0x0000747E) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+  "canvas": [
+   585,
+   1266
+  ],
+  "shadowMap": 1024,
+  "light": {
+   "ldk": {
+    "baked": {
+     "ms": 0.31,
+     "method": "timer",
+     "n": 145
+    },
+    "live": {
+     "ms": 3.09,
+     "method": "timer",
+     "n": 144
+    },
+    "lamps": {
+     "ms": 3.31,
+     "method": "timer",
+     "n": 144
+    }
+   },
+   "terrace": {
+    "baked": {
+     "ms": 0.27,
+     "method": "timer",
+     "n": 144
+    },
+    "live": {
+     "ms": 3.47,
+     "method": "timer",
+     "n": 145
+    },
+    "lamps": {
+     "ms": 4.33,
+     "method": "timer",
+     "n": 144
+    }
+   },
+   "master": {
+    "baked": {
+     "ms": 0.31,
+     "method": "timer",
+     "n": 145
+    },
+    "live": {
+     "ms": 3.31,
+     "method": "timer",
+     "n": 145
+    },
+    "lamps": {
+     "ms": 4.13,
+     "method": "timer",
+     "n": 145
+    }
+   }
+  },
+  "download": {
+   "mb": {
+    "site code": 0.3,
+    "three.js": 2.66,
+    "models": 15.07,
+    "lightmaps": 2.24,
+    "other": 0,
+    "textures": 2.18
+   },
+   "files": {
+    "site code": 35,
+    "three.js": 13,
+    "models": 13,
+    "lightmaps": 3,
+    "other": 1,
+    "textures": 40
+   }
+  },
+  "memory": {
+   "mb": {
+    "textures": 59.51,
+    "drawing, art, sky": 43.57,
+    "models": 61.87,
+    "lightmaps": 12.58
+   },
+   "count": 91,
+   "formats": {
+    "RGBA8": 91
+   }
+  },
+  "when": "2026-10-19T18:22:01.604Z"
+ }
+}

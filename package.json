@@ -1,0 +1,24 @@
+{
+  "name": "kukja-mario",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "serve": "node tools/serve.mjs site 8080",
+    "checks": "node tools/run-checks.mjs",
+    "check-path": "node tools/check-path.mjs",
+    "audit": "node tools/audit-stops.mjs",
+    "export-bake": "node tools/export-bake.mjs",
+    "shots": "node tools/shots.mjs",
+    "textures": "python -I tools/prep-textures.py"
+  },
+  "devDependencies": {
+    "@gltf-transform/core": "^4.5.1",
+    "@gltf-transform/extensions": "^4.5.1",
+    "@gltf-transform/functions": "^4.5.1",
+    "draco3dgltf": "^1.5.7",
+    "jpeg-js": "^0.4.4",
+    "ktx2-encoder": "^0.6.0",
+    "pngjs": "^7.0.0",
+    "three": "^0.186.1"
+  }
+}

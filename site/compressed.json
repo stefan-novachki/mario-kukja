@@ -1,0 +1,1434 @@
+{
+ "compare/models/decor-dressing.glb": {
+  "kind": "model",
+  "ktx2": "models/decor-dressing.glb",
+  "bytes": 352280,
+  "ktx2Bytes": 275212,
+  "images": [],
+  "texBytesKtx2": 0,
+  "ktx2Mtime": 1792432495834
+ },
+ "compare/models/decor-ensuite.glb": {
+  "kind": "model",
+  "ktx2": "models/decor-ensuite.glb",
+  "bytes": 200304,
+  "ktx2Bytes": 189144,
+  "images": [
+   {
+    "name": "potted_plant_04_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 22257,
+    "width": 256,
+    "height": 256
+   },
+   {
+    "name": "potted_plant_04_diff_1k",
+    "mime": "image/jpeg",
+    "bytes": 62471,
+    "width": 512,
+    "height": 512
+   }
+  ],
+  "texBytesKtx2": 84279,
+  "ktx2Mtime": 1792432498018
+ },
+ "compare/models/decor-front-light.glb": {
+  "kind": "model",
+  "ktx2": "models/decor-front-light.glb",
+  "bytes": 27068,
+  "ktx2Bytes": 25376,
+  "images": [],
+  "texBytesKtx2": 0,
+  "ktx2Mtime": 1792432495807
+ },
+ "compare/models/decor-front.glb": {
+  "kind": "model",
+  "ktx2": "models/decor-front.glb",
+  "bytes": 30740,
+  "ktx2Bytes": 29020,
+  "images": [],
+  "texBytesKtx2": 0,
+  "ktx2Mtime": 1792432495745
+ },
+ "compare/models/decor-garden-light.glb": {
+  "kind": "model",
+  "ktx2": "models/decor-garden-light.glb",
+  "bytes": 2202240,
+  "ktx2Bytes": 1607932,
+  "images": [
+   {
+    "name": "shrub_04_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 15784,
+    "width": 256,
+    "height": 256
+   },
+   {
+    "name": "shrub_04_diff_1k",
+    "mime": "image/png",
+    "bytes": 311018,
+    "width": 512,
+    "height": 512
+   },
+   {
+    "name": "shrub_01_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 20535,
+    "width": 256,
+    "height": 256
+   },
+   {
+    "name": "shrub_01_diff_1k",
+    "mime": "image/png",
+    "bytes": 373844,
+    "width": 512,
+    "height": 512
+   }
+  ],
+  "texBytesKtx2": 168316,
+  "ktx2Mtime": 1792432498627
+ },
+ "compare/models/decor-garden.glb": {
+  "kind": "model",
+  "ktx2": "models/decor-garden.glb",
+  "bytes": 4275956,
+  "ktx2Bytes": 3677596,
+  "images": [
+   {
+    "name": "shrub_04_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 15784,
+    "width": 256,
+    "height": 256
+   },
+   {
+    "name": "shrub_04_diff_1k",
+    "mime": "image/png",
+    "bytes": 311018,
+    "width": 512,
+    "height": 512
+   },
+   {
+    "name": "shrub_01_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 20535,
+    "width": 256,
+    "height": 256
+   },
+   {
+    "name": "shrub_01_diff_1k",
+    "mime": "image/png",
+    "bytes": 373844,
+    "width": 512,
+    "height": 512
+   }
+  ],
+  "texBytesKtx2": 168316,
+  "ktx2Mtime": 1792432498996
+ },
+ "compare/models/decor-hall.glb": {
+  "kind": "model",
+  "ktx2": "models/decor-hall.glb",
+  "bytes": 72112,
+  "ktx2Bytes": 68596,
+  "images": [
+   {
+    "name": "ceramic_vase_01_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 3822,
+    "width": 256,
+    "height": 256
+   },
+   {
+    "name": "ceramic_vase_01_diff_1k",
+    "mime": "image/jpeg",
+    "bytes": 11013,
+    "width": 512,
+    "height": 512
+   }
+  ],
+  "texBytesKtx2": 15971,
+  "ktx2Mtime": 1792432496970
+ },
+ "compare/models/decor-kid.glb": {
+  "kind": "model",
+  "ktx2": "models/decor-kid.glb",
+  "bytes": 138808,
+  "ktx2Bytes": 120184,
+  "images": [],
+  "texBytesKtx2": 0,
+  "ktx2Mtime": 1792432495784
+ },
+ "compare/models/decor-kidbath.glb": {
+  "kind": "model",
+  "ktx2": "models/decor-kidbath.glb",
+  "bytes": 5808,
+  "ktx2Bytes": 5832,
+  "images": [],
+  "texBytesKtx2": 0,
+  "ktx2Mtime": 1792432495862
+ },
+ "compare/models/decor-ldk.glb": {
+  "kind": "model",
+  "ktx2": "models/decor-ldk.glb",
+  "bytes": 3779092,
+  "ktx2Bytes": 2103296,
+  "images": [
+   {
+    "name": "calathea_orbifolia_01_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 47814,
+    "width": 512,
+    "height": 512
+   },
+   {
+    "name": "calathea_orbifolia_01_diff_1k",
+    "mime": "image/png",
+    "bytes": 1201274,
+    "width": 1024,
+    "height": 1024
+   },
+   {
+    "name": "wooden_bowl_01_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 8595,
+    "width": 256,
+    "height": 256
+   },
+   {
+    "name": "wooden_bowl_01_diff_1k",
+    "mime": "image/jpeg",
+    "bytes": 40511,
+    "width": 512,
+    "height": 512
+   },
+   {
+    "name": "ceramic_vase_03_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 9580,
+    "width": 256,
+    "height": 256
+   },
+   {
+    "name": "ceramic_vase_03_diff_1k",
+    "mime": "image/jpeg",
+    "bytes": 41168,
+    "width": 512,
+    "height": 512
+   },
+   {
+    "name": "potted_plant_04_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 22257,
+    "width": 256,
+    "height": 256
+   },
+   {
+    "name": "potted_plant_04_diff_1k",
+    "mime": "image/jpeg",
+    "bytes": 62471,
+    "width": 512,
+    "height": 512
+   },
+   {
+    "name": "ceramic_vase_01_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 3822,
+    "width": 256,
+    "height": 256
+   },
+   {
+    "name": "ceramic_vase_01_diff_1k",
+    "mime": "image/jpeg",
+    "bytes": 11013,
+    "width": 512,
+    "height": 512
+   },
+   {
+    "name": "book_encyclopedia_set_01_paper_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 14834,
+    "width": 256,
+    "height": 256
+   },
+   {
+    "name": "book_encyclopedia_set_01_paper_diff_1k",
+    "mime": "image/jpeg",
+    "bytes": 38082,
+    "width": 512,
+    "height": 512
+   },
+   {
+    "name": "pachira_aquatica_01_leaves_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 44407,
+    "width": 512,
+    "height": 512
+   },
+   {
+    "name": "pachira_aquatica_01_leaves_diff_1k",
+    "mime": "image/jpeg",
+    "bytes": 320484,
+    "width": 1024,
+    "height": 1024
+   },
+   {
+    "name": "book_encyclopedia_set_01_cover_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 1790,
+    "width": 256,
+    "height": 256
+   },
+   {
+    "name": "book_encyclopedia_set_01_cover_diff_1k",
+    "mime": "image/jpeg",
+    "bytes": 44617,
+    "width": 512,
+    "height": 512
+   },
+   {
+    "name": "pachira_aquatica_01_bark_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 60460,
+    "width": 512,
+    "height": 512
+   },
+   {
+    "name": "pachira_aquatica_01_bark_diff_1k",
+    "mime": "image/jpeg",
+    "bytes": 592488,
+    "width": 1024,
+    "height": 1024
+   }
+  ],
+  "texBytesKtx2": 1038495,
+  "ktx2Mtime": 1792432513699
+ },
+ "compare/models/decor-master.glb": {
+  "kind": "model",
+  "ktx2": "models/decor-master.glb",
+  "bytes": 1619804,
+  "ktx2Bytes": 601156,
+  "images": [
+   {
+    "name": "calathea_orbifolia_01_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 47814,
+    "width": 512,
+    "height": 512
+   },
+   {
+    "name": "calathea_orbifolia_01_diff_1k",
+    "mime": "image/png",
+    "bytes": 1201274,
+    "width": 1024,
+    "height": 1024
+   },
+   {
+    "name": "ceramic_vase_03_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 9580,
+    "width": 256,
+    "height": 256
+   },
+   {
+    "name": "ceramic_vase_03_diff_1k",
+    "mime": "image/jpeg",
+    "bytes": 41168,
+    "width": 512,
+    "height": 512
+   }
+  ],
+  "texBytesKtx2": 299593,
+  "ktx2Mtime": 1792432501262
+ },
+ "compare/models/decor-office.glb": {
+  "kind": "model",
+  "ktx2": "models/decor-office.glb",
+  "bytes": 2018416,
+  "ktx2Bytes": 1128136,
+  "images": [
+   {
+    "name": "potted_plant_01_leaves_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 57863,
+    "width": 512,
+    "height": 512
+   },
+   {
+    "name": "potted_plant_01_leaves_diff_1k",
+    "mime": "image/png",
+    "bytes": 1004054,
+    "width": 1024,
+    "height": 1024
+   },
+   {
+    "name": "potted_plant_04_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 22257,
+    "width": 256,
+    "height": 256
+   },
+   {
+    "name": "potted_plant_04_diff_1k",
+    "mime": "image/jpeg",
+    "bytes": 62471,
+    "width": 512,
+    "height": 512
+   },
+   {
+    "name": "book_encyclopedia_set_01_paper_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 14834,
+    "width": 256,
+    "height": 256
+   },
+   {
+    "name": "book_encyclopedia_set_01_paper_diff_1k",
+    "mime": "image/jpeg",
+    "bytes": 38082,
+    "width": 512,
+    "height": 512
+   },
+   {
+    "name": "book_encyclopedia_set_01_cover_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 1790,
+    "width": 256,
+    "height": 256
+   },
+   {
+    "name": "book_encyclopedia_set_01_cover_diff_1k",
+    "mime": "image/jpeg",
+    "bytes": 44617,
+    "width": 512,
+    "height": 512
+   },
+   {
+    "name": "potted_plant_01_pot_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 14194,
+    "width": 256,
+    "height": 256
+   },
+   {
+    "name": "potted_plant_01_pot_diff_1k",
+    "mime": "image/jpeg",
+    "bytes": 63026,
+    "width": 512,
+    "height": 512
+   }
+  ],
+  "texBytesKtx2": 499074,
+  "ktx2Mtime": 1792432505346
+ },
+ "compare/models/decor-wc.glb": {
+  "kind": "model",
+  "ktx2": "models/decor-wc.glb",
+  "bytes": 7432,
+  "ktx2Bytes": 6792,
+  "images": [],
+  "texBytesKtx2": 0,
+  "ktx2Mtime": 1792432495835
+ },
+ "compare/models/trees-light.glb": {
+  "kind": "model",
+  "ktx2": "models/trees-light.glb",
+  "bytes": 4647236,
+  "ktx2Bytes": 2967284,
+  "images": [
+   {
+    "name": "tree_small_02_leaves",
+    "mime": "image/png",
+    "bytes": 914786,
+    "width": 1024,
+    "height": 1024
+   },
+   {
+    "name": "island_tree_02_branches_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 28375,
+    "width": 256,
+    "height": 256
+   },
+   {
+    "name": "island_tree_02_branches_diff_1k",
+    "mime": "image/jpeg",
+    "bytes": 69757,
+    "width": 512,
+    "height": 512
+   },
+   {
+    "name": "tree_small_02_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 25490,
+    "width": 256,
+    "height": 256
+   },
+   {
+    "name": "tree_small_02_diff_1k",
+    "mime": "image/jpeg",
+    "bytes": 82271,
+    "width": 512,
+    "height": 512
+   },
+   {
+    "name": "island_tree_02_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 28972,
+    "width": 256,
+    "height": 256
+   },
+   {
+    "name": "island_tree_02_diff_1k",
+    "mime": "image/jpeg",
+    "bytes": 69524,
+    "width": 512,
+    "height": 512
+   },
+   {
+    "name": "tree_small_02_branch_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 20743,
+    "width": 256,
+    "height": 256
+   },
+   {
+    "name": "tree_small_02_branch_diff_1k",
+    "mime": "image/jpeg",
+    "bytes": 54232,
+    "width": 512,
+    "height": 512
+   },
+   {
+    "name": "island_tree_02_leaves",
+    "mime": "image/png",
+    "bytes": 585127,
+    "width": 1024,
+    "height": 1024
+   }
+  ],
+  "texBytesKtx2": 656598,
+  "ktx2Mtime": 1792432510372
+ },
+ "compare/models/trees.glb": {
+  "kind": "model",
+  "ktx2": "models/trees.glb",
+  "bytes": 8282404,
+  "ktx2Bytes": 5690072,
+  "images": [
+   {
+    "name": "tree_small_02_leaves",
+    "mime": "image/png",
+    "bytes": 914786,
+    "width": 1024,
+    "height": 1024
+   },
+   {
+    "name": "island_tree_02_branches_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 28375,
+    "width": 256,
+    "height": 256
+   },
+   {
+    "name": "island_tree_02_branches_diff_1k",
+    "mime": "image/jpeg",
+    "bytes": 69757,
+    "width": 512,
+    "height": 512
+   },
+   {
+    "name": "tree_small_02_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 25490,
+    "width": 256,
+    "height": 256
+   },
+   {
+    "name": "tree_small_02_diff_1k",
+    "mime": "image/jpeg",
+    "bytes": 82271,
+    "width": 512,
+    "height": 512
+   },
+   {
+    "name": "island_tree_02_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 28972,
+    "width": 256,
+    "height": 256
+   },
+   {
+    "name": "island_tree_02_diff_1k",
+    "mime": "image/jpeg",
+    "bytes": 69524,
+    "width": 512,
+    "height": 512
+   },
+   {
+    "name": "tree_small_02_branch_nor_gl_1k",
+    "mime": "image/jpeg",
+    "bytes": 20743,
+    "width": 256,
+    "height": 256
+   },
+   {
+    "name": "tree_small_02_branch_diff_1k",
+    "mime": "image/jpeg",
+    "bytes": 54232,
+    "width": 512,
+    "height": 512
+   },
+   {
+    "name": "island_tree_02_leaves",
+    "mime": "image/png",
+    "bytes": 585127,
+    "width": 1024,
+    "height": 1024
+   }
+  ],
+  "texBytesKtx2": 656598,
+  "ktx2Mtime": 1792432511035
+ },
+ "lightmaps/arch-1k.png": {
+  "kind": "lightmap",
+  "ktx2": "lightmaps/arch-1k.ktx2",
+  "bytes": 709115,
+  "ktx2Bytes": 319866,
+  "width": 1024,
+  "height": 1024,
+  "mode": "UASTC",
+  "mips": false
+ },
+ "lightmaps/arch.png": {
+  "kind": "lightmap",
+  "ktx2": "lightmaps/arch.ktx2",
+  "bytes": 2217063,
+  "ktx2Bytes": 1028835,
+  "width": 2048,
+  "height": 2048,
+  "mode": "UASTC",
+  "mips": false
+ },
+ "lightmaps/items-1k.png": {
+  "kind": "lightmap",
+  "ktx2": "lightmaps/items-1k.ktx2",
+  "bytes": 986022,
+  "ktx2Bytes": 421502,
+  "width": 1024,
+  "height": 1024,
+  "mode": "UASTC",
+  "mips": false
+ },
+ "lightmaps/items.png": {
+  "kind": "lightmap",
+  "ktx2": "lightmaps/items.ktx2",
+  "bytes": 3111949,
+  "ktx2Bytes": 1405274,
+  "width": 2048,
+  "height": 2048,
+  "mode": "UASTC",
+  "mips": false
+ },
+ "lightmaps/site-1k.png": {
+  "kind": "lightmap",
+  "ktx2": "lightmaps/site-1k.ktx2",
+  "bytes": 542077,
+  "ktx2Bytes": 206186,
+  "width": 1024,
+  "height": 1024,
+  "mode": "UASTC",
+  "mips": false
+ },
+ "lightmaps/site.png": {
+  "kind": "lightmap",
+  "ktx2": "lightmaps/site.ktx2",
+  "bytes": 1729843,
+  "ktx2Bytes": 696855,
+  "width": 2048,
+  "height": 2048,
+  "mode": "UASTC",
+  "mips": false
+ },
+ "textures/concrete/diff-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/concrete/diff-light.ktx2",
+  "bytes": 53685,
+  "ktx2Bytes": 55337,
+  "width": 512,
+  "height": 512,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/concrete/diff.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/concrete/diff.ktx2",
+  "bytes": 249864,
+  "ktx2Bytes": 183245,
+  "width": 1024,
+  "height": 1024,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/concrete/nor-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/concrete/nor-light.ktx2",
+  "bytes": 89982,
+  "ktx2Bytes": 81354,
+  "width": 512,
+  "height": 512,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/concrete/nor.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/concrete/nor.ktx2",
+  "bytes": 441554,
+  "ktx2Bytes": 968242,
+  "width": 1024,
+  "height": 1024,
+  "mode": "UASTC",
+  "mips": true
+ },
+ "textures/concrete/rough-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/concrete/rough-light.ktx2",
+  "bytes": 31549,
+  "ktx2Bytes": 50047,
+  "width": 512,
+  "height": 512,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/concrete/rough.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/concrete/rough.ktx2",
+  "bytes": 167827,
+  "ktx2Bytes": 171193,
+  "width": 1024,
+  "height": 1024,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/grass/diff-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/grass/diff-light.ktx2",
+  "bytes": 57246,
+  "ktx2Bytes": 60382,
+  "width": 512,
+  "height": 512,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/grass/diff.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/grass/diff.ktx2",
+  "bytes": 245325,
+  "ktx2Bytes": 207483,
+  "width": 1024,
+  "height": 1024,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/grass/nor-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/grass/nor-light.ktx2",
+  "bytes": 282376,
+  "ktx2Bytes": 109310,
+  "width": 512,
+  "height": 512,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/grass/nor.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/grass/nor.ktx2",
+  "bytes": 1126926,
+  "ktx2Bytes": 1356312,
+  "width": 1024,
+  "height": 1024,
+  "mode": "UASTC",
+  "mips": true
+ },
+ "textures/grass/rough-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/grass/rough-light.ktx2",
+  "bytes": 19576,
+  "ktx2Bytes": 40511,
+  "width": 512,
+  "height": 512,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/grass/rough.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/grass/rough.ktx2",
+  "bytes": 89261,
+  "ktx2Bytes": 145189,
+  "width": 1024,
+  "height": 1024,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/gravel/diff-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/gravel/diff-light.ktx2",
+  "bytes": 71958,
+  "ktx2Bytes": 62063,
+  "width": 512,
+  "height": 512,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/gravel/diff.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/gravel/diff.ktx2",
+  "bytes": 267868,
+  "ktx2Bytes": 210622,
+  "width": 1024,
+  "height": 1024,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/gravel/nor-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/gravel/nor-light.ktx2",
+  "bytes": 328194,
+  "ktx2Bytes": 110607,
+  "width": 512,
+  "height": 512,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/gravel/nor.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/gravel/nor.ktx2",
+  "bytes": 1196565,
+  "ktx2Bytes": 1358897,
+  "width": 1024,
+  "height": 1024,
+  "mode": "UASTC",
+  "mips": true
+ },
+ "textures/gravel/rough-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/gravel/rough-light.ktx2",
+  "bytes": 17031,
+  "ktx2Bytes": 39172,
+  "width": 512,
+  "height": 512,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/gravel/rough.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/gravel/rough.ktx2",
+  "bytes": 73625,
+  "ktx2Bytes": 132659,
+  "width": 1024,
+  "height": 1024,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/hedge/diff-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/hedge/diff-light.ktx2",
+  "bytes": 99387,
+  "ktx2Bytes": 68237,
+  "width": 512,
+  "height": 512,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/hedge/diff.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/hedge/diff.ktx2",
+  "bytes": 296549,
+  "ktx2Bytes": 222583,
+  "width": 1024,
+  "height": 1024,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/hedge/nor-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/hedge/nor-light.ktx2",
+  "bytes": 163240,
+  "ktx2Bytes": 97307,
+  "width": 512,
+  "height": 512,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/hedge/nor.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/hedge/nor.ktx2",
+  "bytes": 397650,
+  "ktx2Bytes": 773280,
+  "width": 1024,
+  "height": 1024,
+  "mode": "UASTC",
+  "mips": true
+ },
+ "textures/hedgeLeaf/diff-light.png": {
+  "kind": "texture",
+  "ktx2": "textures/hedgeLeaf/diff-light.ktx2",
+  "bytes": 7047,
+  "ktx2Bytes": 3750,
+  "width": 128,
+  "height": 128,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/hedgeLeaf/diff.png": {
+  "kind": "texture",
+  "ktx2": "textures/hedgeLeaf/diff.ktx2",
+  "bytes": 18999,
+  "ktx2Bytes": 7876,
+  "width": 256,
+  "height": 256,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/linen/nor-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/linen/nor-light.ktx2",
+  "bytes": 6427,
+  "ktx2Bytes": 3755,
+  "width": 256,
+  "height": 256,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/linen/nor.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/linen/nor.ktx2",
+  "bytes": 76884,
+  "ktx2Bytes": 185833,
+  "width": 512,
+  "height": 512,
+  "mode": "UASTC",
+  "mips": true
+ },
+ "textures/linen/rough-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/linen/rough-light.ktx2",
+  "bytes": 9045,
+  "ktx2Bytes": 14034,
+  "width": 256,
+  "height": 256,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/linen/rough.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/linen/rough.ktx2",
+  "bytes": 70910,
+  "ktx2Bytes": 56340,
+  "width": 512,
+  "height": 512,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/marble/diff-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/marble/diff-light.ktx2",
+  "bytes": 19348,
+  "ktx2Bytes": 30973,
+  "width": 1024,
+  "height": 1024,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/marble/diff.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/marble/diff.ktx2",
+  "bytes": 52065,
+  "ktx2Bytes": 81414,
+  "width": 2048,
+  "height": 2048,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/marble/rough-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/marble/rough-light.ktx2",
+  "bytes": 3040,
+  "ktx2Bytes": 6523,
+  "width": 512,
+  "height": 512,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/marble/rough.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/marble/rough.ktx2",
+  "bytes": 9487,
+  "ktx2Bytes": 15995,
+  "width": 1024,
+  "height": 1024,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/oak/diff-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/oak/diff-light.ktx2",
+  "bytes": 41114,
+  "ktx2Bytes": 52787,
+  "width": 512,
+  "height": 512,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/oak/diff.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/oak/diff.ktx2",
+  "bytes": 165009,
+  "ktx2Bytes": 181686,
+  "width": 1024,
+  "height": 1024,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/oak/nor-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/oak/nor-light.ktx2",
+  "bytes": 27269,
+  "ktx2Bytes": 19152,
+  "width": 512,
+  "height": 512,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/oak/nor.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/oak/nor.ktx2",
+  "bytes": 167301,
+  "ktx2Bytes": 488236,
+  "width": 1024,
+  "height": 1024,
+  "mode": "UASTC",
+  "mips": true
+ },
+ "textures/oak/rough-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/oak/rough-light.ktx2",
+  "bytes": 61883,
+  "ktx2Bytes": 57161,
+  "width": 512,
+  "height": 512,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/oak/rough.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/oak/rough.ktx2",
+  "bytes": 266528,
+  "ktx2Bytes": 197970,
+  "width": 1024,
+  "height": 1024,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/oakFloor/diff-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/oakFloor/diff-light.ktx2",
+  "bytes": 177820,
+  "ktx2Bytes": 184632,
+  "width": 1024,
+  "height": 1024,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/oakFloor/diff.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/oakFloor/diff.ktx2",
+  "bytes": 712910,
+  "ktx2Bytes": 719359,
+  "width": 2048,
+  "height": 2048,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/oakFloor/nor-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/oakFloor/nor-light.ktx2",
+  "bytes": 4774,
+  "ktx2Bytes": 3141,
+  "width": 512,
+  "height": 512,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/oakFloor/nor.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/oakFloor/nor.ktx2",
+  "bytes": 65448,
+  "ktx2Bytes": 391439,
+  "width": 1024,
+  "height": 1024,
+  "mode": "UASTC",
+  "mips": true
+ },
+ "textures/oakFloor/rough-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/oakFloor/rough-light.ktx2",
+  "bytes": 54518,
+  "ktx2Bytes": 56350,
+  "width": 512,
+  "height": 512,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/oakFloor/rough.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/oakFloor/rough.ktx2",
+  "bytes": 262105,
+  "ktx2Bytes": 187417,
+  "width": 1024,
+  "height": 1024,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/plaster/diff-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/plaster/diff-light.ktx2",
+  "bytes": 12661,
+  "ktx2Bytes": 28008,
+  "width": 512,
+  "height": 512,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/plaster/diff.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/plaster/diff.ktx2",
+  "bytes": 86408,
+  "ktx2Bytes": 137542,
+  "width": 1024,
+  "height": 1024,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/plaster/nor-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/plaster/nor-light.ktx2",
+  "bytes": 76345,
+  "ktx2Bytes": 65104,
+  "width": 512,
+  "height": 512,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/plaster/nor.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/plaster/nor.ktx2",
+  "bytes": 560458,
+  "ktx2Bytes": 1103026,
+  "width": 1024,
+  "height": 1024,
+  "mode": "UASTC",
+  "mips": true
+ },
+ "textures/render/diff-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/render/diff-light.ktx2",
+  "bytes": 7974,
+  "ktx2Bytes": 13049,
+  "width": 512,
+  "height": 512,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/render/diff.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/render/diff.ktx2",
+  "bytes": 74395,
+  "ktx2Bytes": 105018,
+  "width": 1024,
+  "height": 1024,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/render/nor-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/render/nor-light.ktx2",
+  "bytes": 76170,
+  "ktx2Bytes": 68607,
+  "width": 512,
+  "height": 512,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/render/nor.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/render/nor.ktx2",
+  "bytes": 513522,
+  "ktx2Bytes": 1118262,
+  "width": 1024,
+  "height": 1024,
+  "mode": "UASTC",
+  "mips": true
+ },
+ "textures/tiles/diff-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/tiles/diff-light.ktx2",
+  "bytes": 43756,
+  "ktx2Bytes": 53876,
+  "width": 512,
+  "height": 512,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/tiles/diff.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/tiles/diff.ktx2",
+  "bytes": 177956,
+  "ktx2Bytes": 179721,
+  "width": 1024,
+  "height": 1024,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/tiles/nor-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/tiles/nor-light.ktx2",
+  "bytes": 33437,
+  "ktx2Bytes": 18285,
+  "width": 512,
+  "height": 512,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/tiles/nor.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/tiles/nor.ktx2",
+  "bytes": 122272,
+  "ktx2Bytes": 449665,
+  "width": 1024,
+  "height": 1024,
+  "mode": "UASTC",
+  "mips": true
+ },
+ "textures/tiles/rough-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/tiles/rough-light.ktx2",
+  "bytes": 24566,
+  "ktx2Bytes": 40506,
+  "width": 512,
+  "height": 512,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/tiles/rough.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/tiles/rough.ktx2",
+  "bytes": 99683,
+  "ktx2Bytes": 147338,
+  "width": 1024,
+  "height": 1024,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/travertine/diff-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/travertine/diff-light.ktx2",
+  "bytes": 122211,
+  "ktx2Bytes": 159181,
+  "width": 1024,
+  "height": 1024,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/travertine/diff.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/travertine/diff.ktx2",
+  "bytes": 511107,
+  "ktx2Bytes": 614002,
+  "width": 2048,
+  "height": 2048,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/travertine/nor-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/travertine/nor-light.ktx2",
+  "bytes": 14128,
+  "ktx2Bytes": 10821,
+  "width": 512,
+  "height": 512,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/travertine/nor.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/travertine/nor.ktx2",
+  "bytes": 64507,
+  "ktx2Bytes": 350576,
+  "width": 1024,
+  "height": 1024,
+  "mode": "UASTC",
+  "mips": true
+ },
+ "textures/travertine/rough-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/travertine/rough-light.ktx2",
+  "bytes": 13638,
+  "ktx2Bytes": 26631,
+  "width": 512,
+  "height": 512,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/travertine/rough.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/travertine/rough.ktx2",
+  "bytes": 38811,
+  "ktx2Bytes": 67380,
+  "width": 1024,
+  "height": 1024,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/walnut/diff-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/walnut/diff-light.ktx2",
+  "bytes": 37150,
+  "ktx2Bytes": 53605,
+  "width": 512,
+  "height": 512,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/walnut/diff.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/walnut/diff.ktx2",
+  "bytes": 129499,
+  "ktx2Bytes": 177373,
+  "width": 1024,
+  "height": 1024,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/walnut/nor-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/walnut/nor-light.ktx2",
+  "bytes": 23360,
+  "ktx2Bytes": 12428,
+  "width": 512,
+  "height": 512,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/walnut/nor.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/walnut/nor.ktx2",
+  "bytes": 105547,
+  "ktx2Bytes": 478145,
+  "width": 1024,
+  "height": 1024,
+  "mode": "UASTC",
+  "mips": true
+ },
+ "textures/walnut/rough-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/walnut/rough-light.ktx2",
+  "bytes": 21191,
+  "ktx2Bytes": 42083,
+  "width": 512,
+  "height": 512,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/walnut/rough.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/walnut/rough.ktx2",
+  "bytes": 79963,
+  "ktx2Bytes": 137114,
+  "width": 1024,
+  "height": 1024,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/water/nor-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/water/nor-light.ktx2",
+  "bytes": 12808,
+  "ktx2Bytes": 14385,
+  "width": 256,
+  "height": 256,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/water/nor.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/water/nor.ktx2",
+  "bytes": 32205,
+  "ktx2Bytes": 166934,
+  "width": 512,
+  "height": 512,
+  "mode": "UASTC",
+  "mips": true
+ },
+ "textures/wool/diff-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/wool/diff-light.ktx2",
+  "bytes": 12025,
+  "ktx2Bytes": 15022,
+  "width": 256,
+  "height": 256,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/wool/diff.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/wool/diff.ktx2",
+  "bytes": 59183,
+  "ktx2Bytes": 56484,
+  "width": 512,
+  "height": 512,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/wool/nor-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/wool/nor-light.ktx2",
+  "bytes": 11085,
+  "ktx2Bytes": 13633,
+  "width": 256,
+  "height": 256,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/wool/nor.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/wool/nor.ktx2",
+  "bytes": 114173,
+  "ktx2Bytes": 269505,
+  "width": 512,
+  "height": 512,
+  "mode": "UASTC",
+  "mips": true
+ },
+ "textures/wool/rough-light.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/wool/rough-light.ktx2",
+  "bytes": 6723,
+  "ktx2Bytes": 12379,
+  "width": 256,
+  "height": 256,
+  "mode": "ETC1S",
+  "mips": true
+ },
+ "textures/wool/rough.jpg": {
+  "kind": "texture",
+  "ktx2": "textures/wool/rough.ktx2",
+  "bytes": 44225,
+  "ktx2Bytes": 53198,
+  "width": 512,
+  "height": 512,
+  "mode": "ETC1S",
+  "mips": true
+ }
+}

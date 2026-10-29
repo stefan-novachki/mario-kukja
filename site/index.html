@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Kukja Mario</title>
+<meta name="description" content="Walk through Kukja Mario, a modern single-storey house with timber, white render and anthracite, a garage, pergola and garden, from pencil plan to rooms.">
+<link rel="stylesheet" href="css/tour.css">
+<script type="importmap">
+{ "imports": {
+  "three": "./vendor/three/build/three.module.js",
+  "three/addons/": "./vendor/three/examples/jsm/"
+} }
+</script>
+</head>
+<body>
+<canvas id="gl" aria-hidden="true"></canvas>
+<div id="opening" class="opening" aria-hidden="true">
+  <div class="opening-head"><div class="opening-title" id="otitle"></div><p class="opening-sub" id="osub"></p></div>
+  <div id="sheet" class="sheet"></div>
+  <div class="opening-legend" id="olegend"></div>
+</div>
+
+<header class="bar">
+  <div class="brand" id="brand" aria-label="Kukja Mario"></div>
+  <div class="units" role="group" aria-label="Units">
+    <button type="button" data-u="metric" aria-pressed="true">m</button><button type="button" data-u="imperial" aria-pressed="false">ft-in</button>
+  </div>
+</header>
+
+<aside id="card" class="card" aria-live="polite" hidden></aside>
+
+<p id="hint" class="hint">Scroll to walk in</p>
+<p id="status" class="status" role="status">Drawing the house…</p>
+
+<footer class="tier" role="group" aria-label="Quality">
+  <button type="button" data-tier="desktop" aria-pressed="true">Full</button><button type="button" data-tier="light" aria-pressed="false">Light</button>
+</footer>
+
+<div id="track" class="track"></div>
+<script type="module" src="js/main.js"></script>
+</body>
+</html>

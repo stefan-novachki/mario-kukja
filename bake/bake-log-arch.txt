@@ -1,0 +1,344 @@
+19:59:07 | INFO: Data are loaded, start creating Blender stuff
+19:59:07 | INFO: Blender create Mesh node B|arch|arch|render
+19:59:07 | INFO: Blender create Mesh node B|arch|arch|plaster
+19:59:07 | INFO: Blender create Mesh node B|arch|arch|coping
+19:59:07 | INFO: Blender create Mesh node B|arch|arch|paving
+19:59:07 | INFO: Blender create Mesh node B|arch|arch|concrete
+19:59:07 | INFO: Blender create Mesh node B|arch|arch|smokedOak
+19:59:07 | INFO: Blender create Mesh node B|arch|arch|frame
+19:59:07 | INFO: Blender create Mesh node B|arch|arch|oak
+19:59:07 | INFO: Blender create Mesh node N|arch|glass
+19:59:07 | INFO: Blender create Mesh node B|arch|arch|oakFloor
+19:59:07 | INFO: Blender create Mesh node B|arch|arch|travertine
+19:59:07 | INFO: Blender create Mesh node B|arch|top|ceiling
+19:59:07 | INFO: Blender create Mesh node B|arch|top|coping
+19:59:07 | INFO: Blender create Mesh node N|top|glass
+19:59:07 | INFO: Blender create Mesh node B|arch|top|roof
+19:59:07 | INFO: Blender create Mesh node B|site|site|concrete
+19:59:07 | INFO: Blender create Mesh node B|site|site|paving
+19:59:07 | INFO: Blender create Mesh node B|site|site|gravel
+19:59:07 | INFO: Blender create Mesh node B|site|site|poolTile
+19:59:07 | INFO: Blender create Mesh node N|site|water
+19:59:07 | INFO: Blender create Mesh node B|site|site|lawn
+19:59:07 | INFO: Blender create Mesh node N|site|asphalt
+19:59:07 | INFO: Blender create Mesh node B|site|site|hedge
+19:59:07 | INFO: Blender create Mesh node B|arch|top|render
+19:59:07 | INFO: Blender create Mesh node B|arch|top|frame
+19:59:07 | INFO: Blender create Mesh node B|site|site|travertine
+19:59:07 | INFO: Blender create Mesh node B|site|site|mulch
+19:59:07 | INFO: Blender create Mesh node B|site|site|frame
+19:59:07 | INFO: Blender create Mesh node B|items|items|tyre
+19:59:07 | INFO: Blender create Mesh node B|items|items|car
+19:59:07 | INFO: Blender create Mesh node B|items|items|carGlass
+19:59:07 | INFO: Blender create Mesh node B|items|items|concrete
+19:59:07 | INFO: Blender create Mesh node B|items|items|ceramic
+19:59:07 | INFO: Blender create Mesh node B|items|items|frame
+19:59:07 | INFO: Blender create Mesh node B|items|items|plaster
+19:59:07 | INFO: Blender create Mesh node B|items|items|oak
+19:59:07 | INFO: Blender create Mesh node B|items|items|travertineWall
+19:59:07 | INFO: Blender create Mesh node B|items|items|walnut
+19:59:07 | INFO: Blender create Mesh node V|decor|office|linen
+19:59:07 | INFO: Blender create Mesh node V|decor|ldk|linen
+19:59:07 | INFO: Blender create Mesh node V|decor|kid|linen
+19:59:07 | INFO: Blender create Mesh node V|decor|master|linen
+19:59:07 | INFO: Blender create Mesh node B|items|items|marble
+19:59:07 | INFO: Blender create Mesh node N|items|blackGlass
+19:59:07 | INFO: Blender create Mesh node B|items|items|steel
+19:59:07 | INFO: Blender create Mesh node B|items|items|rug
+19:59:07 | INFO: Blender create Mesh node B|items|items|travertineSlab
+19:59:07 | INFO: Blender create Mesh node N|items|mirror
+19:59:07 | INFO: Blender create Mesh node N|items|glass
+19:59:07 | INFO: Blender create Mesh node V|decor|kid|linenWhite
+19:59:07 | INFO: Blender create Mesh node V|decor|master|linenWhite
+19:59:07 | INFO: Blender create Mesh node V|decor|kid|linenSage
+19:59:07 | INFO: Blender create Mesh node V|decor|kidbath|linenSage
+19:59:07 | INFO: Blender create Mesh node V|decor|kid|linenMustard
+19:59:07 | INFO: Blender create Mesh node V|decor|master|linenOat
+19:59:07 | INFO: Blender create Mesh node V|decor|ldk|linenOat
+19:59:07 | INFO: Blender create Mesh node V|decor|office|linenOat
+19:59:07 | INFO: Blender create Mesh node V|decor|ensuite|linenOat
+19:59:07 | INFO: Blender create Mesh node V|decor|kid|linenOat
+19:59:07 | INFO: Blender create Mesh node V|decor|dressing|linenOat
+19:59:07 | INFO: Blender create Mesh node V|decor|garden|linenOat
+19:59:07 | INFO: Blender create Mesh node B|items|items|teak
+19:59:07 | INFO: Blender create Mesh node V|decor|garden|outdoorFabric
+19:59:07 | INFO: Blender create Mesh node V|decor|garden|fireConcrete
+19:59:07 | INFO: Blender create Mesh node V|decor|garden|stonewareDark
+19:59:07 | INFO: Blender create Mesh node V|decor|ldk|stonewareDark
+19:59:07 | INFO: Blender create Mesh node V|decor|office|stonewareDark
+19:59:07 | INFO: Blender create Mesh node V|decor|master|stonewareDark
+19:59:07 | INFO: Blender create Mesh node V|decor|ensuite|stonewareDark
+19:59:07 | INFO: Blender create Mesh node V|decor|dressing|stonewareDark
+19:59:07 | INFO: Blender create Mesh node V|decor|wc|stonewareDark
+19:59:07 | INFO: Blender create Mesh node V|decor|garden|fire
+19:59:07 | INFO: Blender create Mesh node N|items|glow
+19:59:07 | INFO: Blender create Mesh node N|items|shade
+19:59:07 | INFO: Blender create Mesh node N|items|glowFront
+19:59:07 | INFO: Blender create Mesh node N|items|glowOut
+19:59:07 | INFO: Blender create Mesh node V|decor|ldk|lemon
+19:59:07 | INFO: Blender create Mesh node V|decor|ldk|oak
+19:59:07 | INFO: Blender create Mesh node V|decor|ldk|walnut
+19:59:07 | INFO: Blender create Mesh node V|decor|ldk|stoneware
+19:59:07 | INFO: Blender create Mesh node V|decor|office|stoneware
+19:59:07 | INFO: Blender create Mesh node V|decor|master|stoneware
+19:59:07 | INFO: Blender create Mesh node V|decor|ensuite|stoneware
+19:59:07 | INFO: Blender create Mesh node V|decor|kid|stoneware
+19:59:07 | INFO: Blender create Mesh node V|decor|kidbath|stoneware
+19:59:07 | INFO: Blender create Mesh node V|decor|ldk|paper
+19:59:07 | INFO: Blender create Mesh node V|decor|office|paper
+19:59:07 | INFO: Blender create Mesh node V|decor|kid|paper
+19:59:07 | INFO: Blender create Mesh node V|decor|ldk|linenCharcoal
+19:59:07 | INFO: Blender create Mesh node V|decor|master|linenCharcoal
+19:59:07 | INFO: Blender create Mesh node V|decor|ldk|book7
+19:59:07 | INFO: Blender create Mesh node V|decor|office|book7
+19:59:07 | INFO: Blender create Mesh node V|decor|master|book7
+19:59:07 | INFO: Blender create Mesh node V|decor|kid|book7
+19:59:07 | INFO: Blender create Mesh node V|decor|ldk|book8
+19:59:07 | INFO: Blender create Mesh node V|decor|office|book8
+19:59:07 | INFO: Blender create Mesh node V|decor|master|book8
+19:59:07 | INFO: Blender create Mesh node V|decor|kid|book8
+19:59:07 | INFO: Blender create Mesh node V|decor|ldk|book3
+19:59:07 | INFO: Blender create Mesh node V|decor|office|book3
+19:59:07 | INFO: Blender create Mesh node V|decor|master|book3
+19:59:07 | INFO: Blender create Mesh node V|decor|kid|book3
+19:59:07 | INFO: Blender create Mesh node V|decor|dressing|book3
+19:59:07 | INFO: Blender create Mesh node V|decor|ldk|book1
+19:59:07 | INFO: Blender create Mesh node V|decor|office|book1
+19:59:07 | INFO: Blender create Mesh node V|decor|master|book1
+19:59:07 | INFO: Blender create Mesh node V|decor|kid|book1
+19:59:07 | INFO: Blender create Mesh node V|decor|ldk|book6
+19:59:07 | INFO: Blender create Mesh node V|decor|hall|book6
+19:59:07 | INFO: Blender create Mesh node V|decor|office|book6
+19:59:07 | INFO: Blender create Mesh node V|decor|master|book6
+19:59:07 | INFO: Blender create Mesh node V|decor|kid|book6
+19:59:07 | INFO: Blender create Mesh node V|decor|ldk|book2
+19:59:07 | INFO: Blender create Mesh node V|decor|office|book2
+19:59:07 | INFO: Blender create Mesh node V|decor|master|book2
+19:59:07 | INFO: Blender create Mesh node V|decor|kid|book2
+19:59:07 | INFO: Blender create Mesh node V|decor|ldk|book5
+19:59:07 | INFO: Blender create Mesh node V|decor|hall|book5
+19:59:07 | INFO: Blender create Mesh node V|decor|office|book5
+19:59:07 | INFO: Blender create Mesh node V|decor|master|book5
+19:59:07 | INFO: Blender create Mesh node V|decor|kid|book5
+19:59:07 | INFO: Blender create Mesh node V|decor|dressing|book5
+19:59:07 | INFO: Blender create Mesh node V|decor|ldk|book9
+19:59:07 | INFO: Blender create Mesh node V|decor|office|book9
+19:59:07 | INFO: Blender create Mesh node V|decor|master|book9
+19:59:07 | INFO: Blender create Mesh node V|decor|kid|book9
+19:59:07 | INFO: Blender create Mesh node V|decor|ldk|book4
+19:59:07 | INFO: Blender create Mesh node V|decor|office|book4
+19:59:07 | INFO: Blender create Mesh node V|decor|kid|book4
+19:59:07 | INFO: Blender create Mesh node V|decor|ldk|art6
+19:59:07 | INFO: Blender create Mesh node V|decor|ldk|art3
+19:59:07 | INFO: Blender create Mesh node B|items|items|paper
+19:59:07 | INFO: Blender create Mesh node B|items|items|art1
+19:59:07 | INFO: Blender create Mesh node B|items|items|art4
+19:59:07 | INFO: Blender create Mesh node B|items|items|art6
+19:59:07 | INFO: Blender create Mesh node B|items|items|art3
+19:59:07 | INFO: Blender create Mesh node B|items|items|art7
+19:59:07 | INFO: Blender create Mesh node V|decor|office|steel
+19:59:07 | INFO: Blender create Mesh node V|decor|office|art7
+19:59:07 | INFO: Blender create Mesh node V|decor|kid|art7
+19:59:07 | INFO: Blender create Mesh node B|items|items|art8
+19:59:07 | INFO: Blender create Mesh node B|items|items|art2
+19:59:07 | INFO: Blender create Mesh node V|decor|ensuite|teak
+19:59:07 | INFO: Blender create Mesh node V|decor|ensuite|frame
+19:59:07 | INFO: Blender create Mesh node V|decor|wc|frame
+19:59:07 | INFO: Blender create Mesh node V|decor|garden|frame
+19:59:07 | INFO: Blender create Mesh node V|decor|ensuite|towel
+19:59:07 | INFO: Blender create Mesh node V|decor|wc|towel
+19:59:07 | INFO: Blender create Mesh node V|decor|garden|towel
+19:59:07 | INFO: Blender create Mesh node B|items|items|art5
+19:59:07 | INFO: Blender create Mesh node V|decor|dressing|cloth5
+19:59:08 | INFO: Blender create Mesh node V|decor|dressing|cloth2
+19:59:08 | INFO: Blender create Mesh node V|decor|dressing|cloth3
+19:59:08 | INFO: Blender create Mesh node V|decor|dressing|cloth4
+19:59:08 | INFO: Blender create Mesh node V|decor|dressing|cloth1
+19:59:08 | INFO: Blender create Mesh node V|decor|dressing|cloth6
+19:59:08 | INFO: Blender create Mesh node V|decor|garden|canvas
+19:59:08 | INFO: Blender create Mesh node V|decor|garden|hedgeLeaf
+19:59:08 | INFO: Blender create Mesh node V|decor|front|hedgeLeaf
+19:59:08 | INFO: Blender create Mesh node V|decor|garden|hedgeLeafFill
+19:59:08 | INFO: Blender create Mesh node V|decor|front|hedgeLeafFill
+19:59:08 | INFO: Blender create Mesh node B|arch|doorD1|oak
+19:59:08 | INFO: Blender create Mesh node B|arch|doorD1|frame
+19:59:08 | INFO: Blender create Mesh node B|arch|doorD3|door
+19:59:08 | INFO: Blender create Mesh node B|arch|doorD3|frame
+19:59:08 | INFO: Blender create Mesh node B|arch|doorD4|door
+19:59:08 | INFO: Blender create Mesh node B|arch|doorD4|frame
+19:59:08 | INFO: Blender create Mesh node B|arch|doorD5|door
+19:59:08 | INFO: Blender create Mesh node B|arch|doorD5|frame
+19:59:08 | INFO: Blender create Mesh node B|arch|doorD6|door
+19:59:08 | INFO: Blender create Mesh node B|arch|doorD6|frame
+19:59:08 | INFO: Blender create Mesh node B|arch|doorD8|door
+19:59:08 | INFO: Blender create Mesh node B|arch|doorD8|frame
+19:59:08 | INFO: Blender create Mesh node B|arch|doorD9|door
+19:59:08 | INFO: Blender create Mesh node B|arch|doorD9|frame
+19:59:08 | INFO: Blender create Mesh node B|arch|doorD10|door
+19:59:08 | INFO: Blender create Mesh node B|arch|doorD10|frame
+19:59:08 | INFO: Blender create Mesh node B|arch|doorD11|door
+19:59:08 | INFO: Blender create Mesh node B|arch|doorD11|frame
+19:59:08 | INFO: Blender create Mesh node B|arch|doorD12|door
+19:59:08 | INFO: Blender create Mesh node B|arch|doorD12|frame
+19:59:08 | INFO: Blender create Mesh node B|arch|doorD13|door
+19:59:08 | INFO: Blender create Mesh node B|arch|doorD13|frame
+19:59:08 | INFO: glTF import finished in 1.05s
+00:02.703  cycles           | WARNING CUEW initialization failed: Error opening the library
+[   1.4s] device GPU samples 2048
+19:59:08 | INFO: Data are loaded, start creating Blender stuff
+19:59:08 | INFO: Blender create Mesh node wood_root_bowl_50k_uv.001
+19:59:08 | INFO: glTF import finished in 0.02s
+19:59:08 | INFO: Data are loaded, start creating Blender stuff
+19:59:08 | INFO: Blender create Mesh node Cube.001
+19:59:08 | INFO: glTF import finished in 0.02s
+19:59:08 | INFO: Data are loaded, start creating Blender stuff
+19:59:08 | INFO: Blender create Mesh node HaworthiaScan_Model_2.001
+19:59:08 | INFO: glTF import finished in 0.02s
+19:59:08 | INFO: Data are loaded, start creating Blender stuff
+19:59:08 | INFO: Blender create Mesh node Cylinder.009
+19:59:08 | INFO: glTF import finished in 0.02s
+19:59:08 | INFO: Data are loaded, start creating Blender stuff
+19:59:08 | INFO: Blender create Mesh node Plane.005
+19:59:08 | INFO: Blender create Mesh node Plane.006
+19:59:08 | INFO: glTF import finished in 0.02s
+C:\Users\Capta\Desktop\house3d-run\tools\blender\bake.py:95: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m.use_nodes = True
+19:59:08 | INFO: Data are loaded, start creating Blender stuff
+19:59:08 | INFO: Blender create Mesh node Cube.004
+19:59:08 | INFO: glTF import finished in 0.03s
+19:59:08 | INFO: Data are loaded, start creating Blender stuff
+19:59:08 | INFO: Blender create Mesh node Plane.014
+19:59:08 | INFO: Blender create Mesh node Plane.003
+19:59:08 | INFO: Blender create Mesh node Cylinder.012
+19:59:08 | INFO: Blender create Mesh node Plane.019
+19:59:08 | INFO: Blender create Mesh node Cylinder.015
+19:59:08 | INFO: glTF import finished in 0.04s
+19:59:08 | INFO: Data are loaded, start creating Blender stuff
+19:59:08 | INFO: Blender create Mesh node Circle.002
+19:59:08 | INFO: Blender create Mesh node Circle.046
+19:59:08 | INFO: Blender create Mesh node Circle.075
+19:59:08 | INFO: Blender create Mesh node Circle.097
+19:59:08 | INFO: Blender create Mesh node Circle.120
+19:59:08 | INFO: Blender create Mesh node Circle.136
+19:59:08 | INFO: Blender create Mesh node Circle.151
+19:59:08 | INFO: Blender create Mesh node Circle.1208
+19:59:08 | INFO: Blender create Mesh node Circle.1291
+19:59:08 | INFO: glTF import finished in 0.07s
+19:59:08 | INFO: Data are loaded, start creating Blender stuff
+19:59:08 | INFO: Blender create Mesh node Plane.489
+19:59:08 | INFO: glTF import finished in 0.02s
+19:59:08 | INFO: Data are loaded, start creating Blender stuff
+19:59:08 | INFO: Blender create Mesh node mesh.001
+19:59:08 | INFO: Blender create Mesh node Plane.002
+19:59:08 | INFO: Blender create Mesh node Circle.001
+19:59:08 | INFO: Blender create Mesh node Circle
+19:59:08 | INFO: glTF import finished in 0.11s
+19:59:08 | INFO: Data are loaded, start creating Blender stuff
+19:59:08 | INFO: Blender create Mesh node potted_plant_01_base_low
+19:59:08 | INFO: glTF import finished in 0.06s
+19:59:08 | INFO: Data are loaded, start creating Blender stuff
+19:59:08 | INFO: Blender create Mesh node mesh.001
+19:59:08 | INFO: Blender create Mesh node island_tree_02_leaves
+19:59:08 | INFO: glTF import finished in 0.18s
+19:59:08 | INFO: Data are loaded, start creating Blender stuff
+19:59:08 | INFO: Blender create Mesh node BezierCurve.002
+19:59:08 | INFO: Blender create Mesh node tree_small_02_leaves
+19:59:09 | INFO: glTF import finished in 0.16s
+19:59:09 | INFO: Data are loaded, start creating Blender stuff
+19:59:09 | INFO: Blender create Mesh node mesh.001
+19:59:09 | INFO: Blender create Mesh node island_tree_02_leaves
+19:59:09 | INFO: glTF import finished in 0.09s
+19:59:09 | INFO: Data are loaded, start creating Blender stuff
+19:59:09 | INFO: Blender create Mesh node BezierCurve.002
+19:59:09 | INFO: Blender create Mesh node tree_small_02_leaves
+19:59:09 | INFO: glTF import finished in 0.08s
+[   2.8s] styling objects 209 trees 12 + light 12
+C:\Users\Capta\Desktop\house3d-run\tools\blender\bake.py:156: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  world.use_nodes = True
+[   2.9s] baking arch day 2048
+05:21.750  render           | Saved: 'C:\Users\Capta\Desktop\house3d-run\bake\_dn_lm_arch_day.exr'
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+[ 320.6s]   done arch day max 3.507629871368408 mean 0.1825246959924698
+[ 320.6s] baking arch lamp 2048
+14:27.172  render           | Saved: 'C:\Users\Capta\Desktop\house3d-run\bake\_dn_lm_arch_lamp.exr'
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+Info: Baking map saved to internal image, save it externally or pack it
+[ 866.0s]   done arch lamp max 8.744571685791016 mean 0.026182522997260094
+[ 866.4s] saved arch
+C:\Users\Capta\Desktop\house3d-run\tools\blender\bake.py:330: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  probe_mat.use_nodes = True
+[ 866.4s] all done
+Blender 5.1.2 (hash ec6e62d40fa9 built 2026-05-19 01:37:34)
+
+Blender quit

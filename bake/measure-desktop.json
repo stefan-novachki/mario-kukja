@@ -1,0 +1,190 @@
+{
+ "desktop KTX2": {
+  "tier": "desktop",
+  "tex": "KTX2",
+  "gpu": "ANGLE (AMD, AMD Radeon RX 7800 XT (0x0000747E) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+  "canvas": [
+   1600,
+   900
+  ],
+  "shadowMap": 4096,
+  "light": {
+   "ldk": {
+    "baked": {
+     "ms": 0.76,
+     "method": "timer",
+     "n": 15
+    },
+    "live": {
+     "ms": 0.95,
+     "method": "timer",
+     "n": 15
+    },
+    "lamps": {
+     "ms": 3.66,
+     "method": "timer",
+     "n": 14
+    }
+   },
+   "terrace": {
+    "baked": {
+     "ms": 0.61,
+     "method": "timer",
+     "n": 15
+    },
+    "live": {
+     "ms": 3.3,
+     "method": "timer",
+     "n": 15
+    },
+    "lamps": {
+     "ms": 4.91,
+     "method": "timer",
+     "n": 15
+    }
+   },
+   "master": {
+    "baked": {
+     "ms": 0.58,
+     "method": "timer",
+     "n": 15
+    },
+    "live": {
+     "ms": 1.71,
+     "method": "timer",
+     "n": 15
+    },
+    "lamps": {
+     "ms": 3.52,
+     "method": "timer",
+     "n": 15
+    }
+   }
+  },
+  "download": {
+   "mb": {
+    "site code": 0.31,
+    "three.js": 3.25,
+    "models": 13.82,
+    "lightmaps": 6.63,
+    "other": 0,
+    "textures": 13.86
+   },
+   "files": {
+    "site code": 36,
+    "three.js": 15,
+    "models": 13,
+    "lightmaps": 3,
+    "other": 1,
+    "textures": 40
+   }
+  },
+  "memory": {
+   "mb": {
+    "textures": 59.51,
+    "drawing, art, sky": 113.13,
+    "models": 61.87,
+    "lightmaps": 50.33
+   },
+   "count": 91,
+   "formats": {
+    "compressed 36492": 39,
+    "RGBA8": 52
+   }
+  },
+  "when": "2026-10-19T16:42:27.787Z"
+ },
+ "desktop JPEG/PNG": {
+  "tier": "desktop",
+  "tex": "JPEG/PNG",
+  "gpu": "ANGLE (AMD, AMD Radeon RX 7800 XT (0x0000747E) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+  "canvas": [
+   1600,
+   900
+  ],
+  "shadowMap": 4096,
+  "light": {
+   "ldk": {
+    "baked": {
+     "ms": 0.39,
+     "method": "timer",
+     "n": 15
+    },
+    "live": {
+     "ms": 0.47,
+     "method": "timer",
+     "n": 15
+    },
+    "lamps": {
+     "ms": 1.55,
+     "method": "timer",
+     "n": 15
+    }
+   },
+   "terrace": {
+    "baked": {
+     "ms": 0.28,
+     "method": "timer",
+     "n": 15
+    },
+    "live": {
+     "ms": 0.33,
+     "method": "timer",
+     "n": 15
+    },
+    "lamps": {
+     "ms": 1.29,
+     "method": "timer",
+     "n": 15
+    }
+   },
+   "master": {
+    "baked": {
+     "ms": 0.25,
+     "method": "timer",
+     "n": 15
+    },
+    "live": {
+     "ms": 0.32,
+     "method": "timer",
+     "n": 15
+    },
+    "lamps": {
+     "ms": 1.27,
+     "method": "timer",
+     "n": 15
+    }
+   }
+  },
+  "download": {
+   "mb": {
+    "site code": 0.3,
+    "three.js": 2.41,
+    "models": 0,
+    "lightmaps": 6.63,
+    "other": 0,
+    "textures": 9.24
+   },
+   "files": {
+    "site code": 35,
+    "three.js": 11,
+    "models": 13,
+    "lightmaps": 3,
+    "other": 1,
+    "textures": 40
+   }
+  },
+  "memory": {
+   "mb": {
+    "textures": 238.03,
+    "drawing, art, sky": 113.13,
+    "lightmaps": 50.33
+   },
+   "count": 55,
+   "formats": {
+    "RGBA8": 55
+   }
+  },
+  "when": "2026-10-19T16:42:49.582Z"
+ }
+}

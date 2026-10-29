@@ -1,0 +1,7 @@
+node_modules/
+assets-src/
+bake/house.glb
+bake/models/
+bake/_dn_*.exr
+bake/villa-ambra-old/
+.vercel/

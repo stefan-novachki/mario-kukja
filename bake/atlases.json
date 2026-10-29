@@ -1,0 +1,17 @@
+{
+ "arch": {
+  "charts": 881,
+  "texelsPerMetre": 44.1,
+  "size": 2048
+ },
+ "items": {
+  "charts": 1656,
+  "texelsPerMetre": 79,
+  "size": 2048
+ },
+ "site": {
+  "charts": 1484,
+  "texelsPerMetre": 39.8,
+  "size": 2048
+ }
+}

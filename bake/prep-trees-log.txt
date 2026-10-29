@@ -1,0 +1,68 @@
+21:09:10 | INFO: Data are loaded, start creating Blender stuff
+21:09:10 | INFO: Blender create Mesh node BezierCurve.002
+21:09:28 | INFO: glTF import finished in 17.75s
+C:\Users\Stefan Novachki\Desktop\mario-kukja\tools\blender\prep-trees.py:151: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m.use_nodes = True
+[prep-trees] tree_small_02 full leaves 16728 cards (33456 tris), wood 13999 tris, crown [2.94471366 4.31720715 3.08977792]
+INFO Draco is available, use library at C:\Program Files\Blender Foundation\Blender 5.2\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_draco_bridge.dll
+INFO MeshOptimizer is available, use library at C:\Program Files\Blender Foundation\Blender 5.2\5.2\scripts\addons_core\io_scene_gltf2\bf_intern_meshopt_bridge.dll
+21:10:01 | INFO: Starting glTF 2.0 export
+21:10:01 | INFO: Extracting primitive: tree_small_02_leaves
+21:10:01 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+21:10:01 | INFO: Primitives created: 1
+21:10:01 | INFO: Extracting primitive: BezierCurve.002
+21:10:02 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+21:10:02 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+21:10:02 | INFO: Primitives created: 2
+21:10:02 | INFO: Finished glTF 2.0 export in 0.5018558502197266 s
+
+[prep-trees] wrote C:\Users\Stefan Novachki\Desktop\mario-kukja\bake\models\tree_small_02.glb 8.26 MB
+21:10:02 | INFO: Data are loaded, start creating Blender stuff
+21:10:02 | INFO: Blender create Mesh node BezierCurve.002
+21:10:17 | INFO: glTF import finished in 14.90s
+[prep-trees] tree_small_02 light leaves 6714 cards (13428 tris), wood 6000 tris, crown [3.02391315 4.33953048 3.13848459]
+21:10:33 | INFO: Starting glTF 2.0 export
+21:10:33 | INFO: Extracting primitive: tree_small_02_leaves
+21:10:33 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+21:10:33 | INFO: Primitives created: 1
+21:10:33 | INFO: Extracting primitive: BezierCurve.002
+21:10:33 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+21:10:33 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+21:10:33 | INFO: Primitives created: 2
+21:10:33 | INFO: Finished glTF 2.0 export in 0.4519963264465332 s
+
+[prep-trees] wrote C:\Users\Stefan Novachki\Desktop\mario-kukja\bake\models\tree_small_02-light.glb 6.36 MB
+21:10:33 | INFO: Data are loaded, start creating Blender stuff
+21:10:33 | INFO: Blender create Mesh node mesh.001
+21:10:39 | INFO: glTF import finished in 5.77s
+[prep-trees] island_tree_02 full leaves 16453 cards (32906 tris), wood 16000 tris, crown [3.87052777 4.07450717 2.15415036]
+21:11:02 | INFO: Starting glTF 2.0 export
+21:11:02 | INFO: Extracting primitive: island_tree_02_leaves
+21:11:02 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+21:11:02 | INFO: Primitives created: 1
+21:11:02 | INFO: Extracting primitive: mesh.001
+21:11:02 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+21:11:02 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+21:11:02 | INFO: Primitives created: 2
+21:11:02 | INFO: Finished glTF 2.0 export in 0.38219141960144043 s
+
+[prep-trees] wrote C:\Users\Stefan Novachki\Desktop\mario-kukja\bake\models\island_tree_02.glb 8.33 MB
+21:11:02 | INFO: Data are loaded, start creating Blender stuff
+21:11:02 | INFO: Blender create Mesh node mesh.001
+21:11:08 | INFO: glTF import finished in 6.12s
+[prep-trees] island_tree_02 light leaves 6610 cards (13220 tris), wood 7000 tris, crown [3.89538516 4.11631074 2.15303744]
+21:11:21 | INFO: Starting glTF 2.0 export
+21:11:21 | INFO: Extracting primitive: island_tree_02_leaves
+21:11:22 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+21:11:22 | INFO: Primitives created: 1
+21:11:22 | INFO: Extracting primitive: mesh.001
+21:11:22 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+21:11:22 | WARNING: More than one shader node tex image used for a texture. The resulting glTF sampler will behave like the first shader node tex image.
+21:11:22 | INFO: Primitives created: 2
+21:11:22 | INFO: Finished glTF 2.0 export in 0.3602943420410156 s
+
+[prep-trees] wrote C:\Users\Stefan Novachki\Desktop\mario-kukja\bake\models\island_tree_02-light.glb 6.38 MB
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:37:16)
+
+Blender quit
+finished
