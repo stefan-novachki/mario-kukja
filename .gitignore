@@ -5,3 +5,4 @@ bake/models/
 bake/_dn_*.exr
 bake/villa-ambra-old/
 .vercel/
+site/compare/

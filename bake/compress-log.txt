@@ -1,0 +1,59 @@
+105 files, 54 to encode
+  1  compare/models/decor-garden.glb          4.65 MB → 4.10 MB
+  2  lightmaps/site-1k.png                    0.85 MB → 0.31 MB
+  3  compare/models/trees.glb                 7.17 MB → 4.73 MB
+  4  lightmaps/items-1k.png                   0.71 MB → 0.31 MB
+  5  lightmaps/arch-1k.png                    0.81 MB → 0.35 MB
+  6  compare/models/trees-light.glb           4.11 MB → 2.49 MB
+  7  compare/models/decor-garden-light.glb    2.23 MB → 1.67 MB
+  8  compare/models/decor-front.glb           1.85 MB → 1.30 MB
+  9  compare/models/decor-guest.glb           1.77 MB → 0.95 MB
+ 10  compare/models/decor-hall.glb            1.55 MB → 0.72 MB
+ 11  compare/models/decor-ldk.glb             2.11 MB → 1.56 MB
+ 12  compare/models/decor-master.glb          1.48 MB → 0.46 MB
+ 13  compare/models/decor-front-light.glb     1.09 MB → 0.54 MB
+ 14  textures/grass/nor.jpg                   1.13 MB → 1.36 MB
+ 15  textures/gravel/nor-light.jpg            0.33 MB → 0.11 MB
+ 16  textures/cedar/nor.jpg                   0.05 MB → 0.00 MB
+ 17  textures/grass/nor-light.jpg             0.28 MB → 0.11 MB
+ 18  textures/oakFloor/diff.jpg               0.71 MB → 0.72 MB
+ 19  textures/oak/rough.jpg                   0.27 MB → 0.20 MB
+ 20  textures/cedar/diff.jpg                  0.74 MB → 0.70 MB
+ 21  textures/oakFloor/rough.jpg              0.26 MB → 0.19 MB
+ 22  compare/models/decor-ensuite.glb         0.19 MB → 0.18 MB
+ 23  textures/grass/diff.jpg                  0.25 MB → 0.21 MB
+ 24  compare/models/decor-kid.glb             0.14 MB → 0.12 MB
+ 25  textures/cedar/diff-light.jpg            0.18 MB → 0.18 MB
+ 26  textures/oak/diff.jpg                    0.17 MB → 0.18 MB
+ 27  textures/plaster/nor-light.jpg           0.08 MB → 0.07 MB
+ 28  textures/plaster/diff.jpg                0.09 MB → 0.14 MB
+ 29  textures/oak/rough-light.jpg             0.06 MB → 0.06 MB
+ 30  textures/plaster/nor.jpg                 0.56 MB → 1.10 MB
+ 31  textures/oak/nor-light.jpg               0.03 MB → 0.02 MB
+ 32  textures/concrete/diff-light.jpg         0.05 MB → 0.06 MB
+ 33  textures/grass/rough-light.jpg           0.02 MB → 0.04 MB
+ 34  textures/hedgeLeaf/diff.png              0.02 MB → 0.01 MB
+ 35  textures/cedar/nor-light.jpg             0.02 MB → 0.00 MB
+ 36  compare/models/decor-pantry.glb          0.01 MB → 0.01 MB
+ 37  textures/render/nor.jpg                  0.51 MB → 1.12 MB
+ 38  textures/linen/rough-light.jpg           0.01 MB → 0.01 MB
+ 39  compare/models/decor-bath.glb            0.01 MB → 0.01 MB
+ 40  textures/gravel/rough-light.jpg          0.02 MB → 0.04 MB
+ 41  textures/hedgeLeaf/diff-light.png        0.01 MB → 0.00 MB
+ 42  textures/marble/rough.jpg                0.01 MB → 0.02 MB
+ 43  textures/render/diff-light.jpg           0.01 MB → 0.01 MB
+ 44  textures/marble/rough-light.jpg          0.00 MB → 0.01 MB
+ 45  compare/models/decor-wc.glb              0.00 MB → 0.00 MB
+ 46  textures/oakFloor/nor-light.jpg          0.00 MB → 0.00 MB
+ 47  textures/cedar/rough.jpg                 0.01 MB → 0.00 MB
+ 48  textures/cedar/rough-light.jpg           0.00 MB → 0.00 MB
+ 49  textures/marble/diff-light.jpg           0.02 MB → 0.03 MB
+ 50  lightmaps/items.png                      2.22 MB → 1.03 MB
+ 51  lightmaps/site.png                       2.85 MB → 1.11 MB
+ 52  textures/oakFloor/nor.jpg                0.07 MB → 0.39 MB
+ 53  textures/marble/diff.jpg                 0.05 MB → 0.08 MB
+ 54  lightmaps/arch.png                       2.61 MB → 1.16 MB
+textures: 12.41 MB → 16.59 MB
+lightmaps: 10.06 MB → 4.27 MB
+models: 30.73 MB → 20.24 MB
+135 s, 0 failed
