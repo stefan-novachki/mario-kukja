@@ -1,0 +1,57 @@
+{
+ "ldk": {
+  "file": "decor-ldk.glb",
+  "tris": 98686,
+  "light": "decor-ldk.glb"
+ },
+ "hall": {
+  "file": "decor-hall.glb",
+  "tris": 24023,
+  "light": "decor-hall.glb"
+ },
+ "kid": {
+  "file": "decor-kid.glb",
+  "tris": 12366,
+  "light": "decor-kid.glb"
+ },
+ "master": {
+  "file": "decor-master.glb",
+  "tris": 29856,
+  "light": "decor-master.glb"
+ },
+ "ensuite": {
+  "file": "decor-ensuite.glb",
+  "tris": 9885,
+  "light": "decor-ensuite.glb"
+ },
+ "guest": {
+  "file": "decor-guest.glb",
+  "tris": 47601,
+  "light": "decor-guest.glb"
+ },
+ "garden": {
+  "file": "decor-garden.glb",
+  "tris": 297531,
+  "light": "decor-garden-light.glb"
+ },
+ "front": {
+  "file": "decor-front.glb",
+  "tris": 77498,
+  "light": "decor-front-light.glb"
+ },
+ "bath": {
+  "file": "decor-bath.glb",
+  "tris": 488,
+  "light": "decor-bath.glb"
+ },
+ "pantry": {
+  "file": "decor-pantry.glb",
+  "tris": 1400,
+  "light": "decor-pantry.glb"
+ },
+ "wc": {
+  "file": "decor-wc.glb",
+  "tris": 128,
+  "light": "decor-wc.glb"
+ }
+}
